@@ -1,0 +1,1898 @@
+About the job
+Responsibilities
+About ByteDance
+Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Helo, and Resso, as well as platforms specific to the China market, including Toutiao, Douyin, and Xigua, ByteDance has made it easier and more fun for people to connect with, consume, and create content.
+
+Why Join Us
+At ByteDance, our people are humble, intelligent, compassionate and creative. We create to inspire - for you, for us, and for millions of users across all of our products. We lead with curiosity and aim for the highest, never shying away from taking calculated risks and embracing ambiguity as it comes. Here, the opportunities are limitless for those who dare to pursue bold ideas that exist just beyond the boundary of possibility. Join us and make impact happen with a career at ByteDance.
+
+About the Team
+The Datacenter Development team is responsible for site selection, acquisition and delivery. As the Data Center and Network Risk & Internal Control Manager you will be responsible for the following:
+
+- From a macro perspective, build a risk management and control system for external procurement of overseas data centers, check and fill gaps in the current business status, formulate and optimize business processes, and improve risk prevention capabilities
+- Responsible for threat and risk assessment of existing business and new business scenarios in overseas data centers, identify the risks and adequate internal controls are designed to mitigate the risks effectively
+- Participate in major business projects, provide targeted risk research and judgment and response suggestions in advance and during the event, identify and judge the risks of the business side's strategy, and give threats and risk assessment and response plans
+- Formulate departmental audit plans, analyze daily business documents, identify abnormal situations and investigate the causes in depth, prepare audit reports and supervise rectification
+- Carry out risk response, in-process supervision and internal control optimization for high-risk areas
+- Overseas team risk control training
+- Coordinate internal audit and external audit work
+
+Qualifications
+- Bachelor degree or above and at least 5 years of Internal plus Big 4 External Audit experiences
+- Be sensitive to business vulnerabilities and abnormal data, and have a relatively systematic understanding and practical experience of risk control strategies
+- Knowledge of data center related categories；Maintain an understanding of emerging technology, risks and industry trends
+- Analytical skills and the ability to adapt quickly in a fast paced environment
+- Good logical ability and understanding, strong communication skills and empathy, able to work independently or with other departments cross-functionally
+- Possess excellent execution, project promotion ability and self-driving ability, honesty and integrity
+- Able to work in a flexible team environment and handle multiple assignments simultaneously
+- Certified Internal Auditor (CIA), Certified Public Accountant (CPA) or applicable certification preferred
+
+
+ByteDance is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At ByteDance, our mission is to inspire creativity and enrich life. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+About the job
+As a University of Applied Learning, SIT works closely with industry in our research pursuits. Our research staff will have the opportunity to be equipped with applied research skill sets that are relevant to industry demands while working on research projects in SIT.
+
+The primary responsibility of this role is to deliver on an industry innovation research project funded by Building Construction Authority, where you will be part of the research team under project titled: Mixed-mode Ventilation for Office Buildings in the Tropics in collaboration with Department of Building, NUS.
+
+The main aim of the project is to develop a real-time occupant centric sensing and control strategy that optimises total building performance for mixed-mode ventilation in the tropics
+
+Under this job title, you will be part of Work-Package 1, who has the role to conduct laboratory experiment on thermal comfort study different scenarios of mixed-ventilation implementation in a building.
+
+Key Responsibilities:
+Participate in and manage the research project with Principal Investigator (PI), Co-PI and the research team members to ensure all project deliverables are met.
+Undertake these responsibilities in the project:
+
+i. Assists in co-supervision of final year projects (FYP) or capstone projects students under the Project PI.
+
+ii. Meeting the deliverables by carrying out the computational simulations and experimental studies planned for under the scope of work of the projects within the timeframe to meet the deliverables.
+
+iii. Assists the PI in drafting of reports, conference proceedings and journal articles based on the outcome of the projects.
+
+iv. Prepares and shares fortnightly report of results from the computations with the program director and PI.
+Carry out Risk Assessment, and ensure compliance with Work, Safety and Health Regulations.
+Coordinate procurement and liaison with vendors/suppliers.
+Work independently, as well as within a team, to ensure proper operation and maintenance of equipment.
+
+Job Requirements:
+Bachelor’s degree or Master (will be an advantage) in Mechanical Engineering, Building Services
+Strong knowledge and experience in building HVAC systems and control is needed
+Hands on experience on experimental studies, thermal comfort study is high advantageous.
+Experience in retrofitting building project including experience in project management, working with contractors and suppliers, especially building HVAC system is needed
+Able to work independently with strong data analytical skills, communication and interpersonal skills.
+About the job
+What do we do?
+At Infosys Compaz(iCompaz), we focus on Digital Transformation for enterprises across industry vertical segments and services. We take clients on a rewarding journey of Digital Transformation, with strengths in AI, Data, User Experience, Cloud, Cybersecurity and Analytics, while also serving clients in their IT management in technology operations, infrastructure and applications. We serve a comprehensive client network spanning multiple industries and are helping clients meet the challenges of the digital economy in financial services, retail, transportation and logistics, telecom, services, and resource sectors, among others.
+
+
+Job Description
+
+Key Responsibilities:
+
+Perform regular Threat Modeling and VA PT of Cloud Infrastructure & services with manual and automated methods. Provide in-depth threat analysis with remediation actions.
+Contribute to all levels of the architecture from a security perspective. Serve as a security expert during the whole development process, mitigate security vulnerabilities and prepare recommendations for hardening,
+Monitor and evaluate security controls throughout the multi-cloud environment and implement security enhancements.
+Documenting and disseminating cloud security standards baseline.
+Ability to create, develop, and deploy security solutions, infra as code, docker & Kubernetes, EKS/ECS, CI/CD pipelines. Integrating and automating the cloud security best practices.
+Have a mature understanding of coverage and risk as an outcome of pen-testing as it relates to security posture and business needs.
+Track and research the latest developments in vulnerability research to harden our defense
+Build relationships with engineering teams to drive products to a mature security state
+
+Key Requirements:
+3+ years of professional experience in any three of areas; cloud security, network security, application security, security engineering, cryptography, with hands-on penetration testing experience.
+3+ years of experience with complex system, network, or service architecture and design reviewing and threat model.
+Deep, progressive experience with AWS security concepts, including IAM, STS, and AWS specific security controls and security architecture design patterns.
+Experience with serverless design concepts and supporting services including S3, SQS, SNS, CloudFront, DynamoDB, Lambda and, API Gateway.
+Familiarity with DevOps engineering concepts, infrastructure automation, pipelines, version control, and deployment strategies are also a plus.
+Experience with multiple programming languages (such as Java, Python, Go) for both tool development and code review
+Ability to perform automation using Terraform/Ansible/Chef/Puppet, Docker/Kubernetes, and any one CI tools (e.g. Jenkins, Gitlab, Travis CI etc.)
+
+Why iCompaz?
+iCompaz is a Joint Venture between Infosys Limited and Temasek Holdings, both global leaders in their respective industries, and the JV was created exclusively to bring Digital Transformation capabilities and global skills to the ASEAN market. Temasek Holdings is a global investment company headquartered in Singapore. Infosys is a global leader in next-generation digital services and consulting, headquartered in Bangalore, India.
+We take pride in our fair employment opportunity. You are welcome at iCompaz regardless of age, race, gender, religion, marital status and family responsibilities, or disability.
+We offer an inclusive and diverse workplace environment to support your career aspirations. We have a strong emphasis on continuous learning to your professional and personal growth. If you are looking for an opportunity where you would be able to make an impact with what you are good at, and at the same time being able to explore any other area that interests or motivates you, WE’VE GOT YOU COVERED!
+About the job
+About Unravel Carbon
+
+Unravel Carbon is an enterprise software that helps companies track and reduce their carbon emissions, focusing on Asia, based in Singapore.
+
+It is the first AI-powered decarbonization platform in Asia that converts any company’s accounting data into full supply chain carbon data in seconds, generates climate solutions automatically and auto-populates regulatory disclosure reports.
+
+We aim to accelerate the participation of all companies, big and small, in the global fight against climate change. And we want to do it the 21st century way—autonomous, painless, and beautiful.
+
+Unravel consists of a team of software engineers, data scientists, founders and climate experts with a passion to solve the world’s most pressing issue—climate change. Collectively, our leadership team has launched and invested in multiple companies, and are now combining their experience and knowledge here at Unravel.
+
+We are backed by some of the world’s best funds and investors such as Y Combinator, Sequoia, Alpha JWC, Rebel Fund and Bradley Horowitz.
+
+Unravel was founded in Q4/2021 with headquarters in Singapore.
+
+About the role
+
+We are looking for a Senior Carbon Data Analyst to join our early, growing data team. It is a great opportunity to join a company that can significantly impact fighting climate change.
+
+As the data team, we strive to help our customers measure and understand their carbon data. Some of the traits that we promote within the team are ownership, curiosity, transparency, and a strong writing culture.
+
+You will collaborate closely with our sustainability experts, data scientists, software engineers, data engineers, and product managers to deliver the core process that enables our customers to solve the problem of understanding their carbon data.
+
+What you will work on
+
+Work with our sustainability team and own the end-to-end process to help our customers measure and understand their carbon data
+Work with our customers to help them understand the data they need to collect
+Help our customers ingest their transaction and activity data into our carbon engine
+Build out proprietary carbon data set and design how we should stucture this data
+Improve our measurement methodology by developing new calculation methods
+Lead our efforts while collaborating with our data engineers, data scientists, and software engineers in designing the structure of our proprietary carbon data set
+Continuously expand and improve the quality of our proprietary carbon data set
+
+About you
+
+You have 2-5 years of experience working in a data and/or analytical client-facing role
+You are an analytical problem solver and able to apply this skill set to large complex unstructured data sets
+You have technical experience working with data in python, SQL, and Excel
+You have a strong sense of ownership and are detail-oriented
+You have strong written and verbal communication and enjoy working cross-functionally
+You thrive in a fast-paced environment and enjoy learning
+You are persistent and capable of handling ambiguity to reach a positive outcome
+You are excited and interested in solving the climate change problem
+
+Bonus points if
+
+You have experience in carbon accounting and/or sustainability
+You have knowledge of emission inventories across corporate value chains
+You have knowledge of GHG emissions calculations methodologies for Scope 3 emissions estimation
+You have experience working with external clients as well as data engineers, data scientists, and software engineers
+
+What we offer you
+
+We offer an exciting challenge for a purpose-driven person who thoroughly enjoys learning and takes up responsibilities in a multicultural pioneering organization.
+
+We nurture a culture that allows you to thrive, where your skills can be honed and your ideas will be heard, and where collaboration across teams and with global partners is the default.
+About the job
+Develop clever algorithms and pragmatic solutions to our data analytics problems.
+Develop metrics to measure the outcome/impact of your introduced solutions.
+Work with other members to implement and integrate into our existing systems.
+Document and improve the solutions over time.
+Evaluate and identify new technologies for implementation.
+Communicate with our business and technical teams to understand the analytics requirements.
+Respond and follow up to incorporate feedback and draw new insights.
+Prioritise tasks to meet multiple deadlines.
+
+Requirements
+Good knowledge of algorithms and data structures
+Strong in analytics and problem solving technique
+Willingness to learn and able to pick up new technology or new concepts fast;
+Able to work independently as well as in collaborative mode with minimum supervision;
+Possess good work ethic, attitude with good follow-through;
+About the job
+We are looking for a Senior Data specialist to delivery and operate the most advanced big data lake for mobile and broadband network. He/she will lead a team of operations specialists in ensuring proper flow of data pipes and uphold service level of the system. He/she will be part of Singtel Digital Platforms Division, Network Analytics Engineering team to deploy and operate a big data lake, network probes and location services platform. He/she will support data engineers and scientists to provide analytics insights on network performance as well as uncover new insights to improve network customer experience. .
+
+This is a hands-on position; the candidate must be willing to “roll up the sleeves” and yet think strategically. You must be able to create solutions to difficult problems, drive strategic initiatives, have excellent project management skills, and be able to lead and train a team of domain experts on new tools and technology. The candidate will be the key contact point and provide hands-on technical guidance to the team and problem solving.
+
+The candidate will also play a role of architect to design, deliver and support Kafka integrations between the data lake and various data systems. This involves explore and align Data API and Kafka integration for data sharing with various data source owners.
+
+Key Responsibilities
+Maintain high level of Data pipelines and system availability (Data Integrity & Systems 95%+)
+Achieve zero SL1 and cyber-security incidents
+Resolve trouble tickets within the given SLA.
+Achieve ISO22301 certification for business continuity
+Use Ansible and scripting to automate system operations.
+Ensure operational processes for the respective systems are well documented. This include system inventories, solution doc, IP/Network design, SOPs etc.
+Update systems to the latest stable Software version. Keep the system updated with the Periodic patch updates (OS, software, Firmware, Switches, Firewall) – Half yearly/yearly.
+Create proper MOP (Method of Procedures) for any configuration change activities and achieve full success rate for any planned / break-fix activities.
+Conduct monthly operations review and quarterly Audits on time and Tickets resolution within SLA. Ensure all audit items are adequately addressed and close-off.
+Ensure no gaps in security monitoring. Perform bi-weekly Antimalware signature updates and monthly Scans. Address immediately the Security vulnerability patching needs.
+Complete and report IOC scans and security patches to network Security Operation Centre. Support various security initiatives to achieve full audit compliance.
+Drives use of automation for deployment and implement near real-time alerts for security or critical issues.
+Deploy PIAM (Physical access and Identity management) for the user account administration to improve security and avoid manual password changes/management and control and keep track of the elevated privileged user accounts logins.
+Manage and maintain a Centralise log server to store all logs and process to expeditiously support investigations into security incidents and application issue troubleshooting.
+Manage Service Delivery for the deliverables from either in house development team or vendor.
+Lead Incident Management and provide timely update to the Management and accountable for the RCA of the managed platforms.
+We are committed to a safe and healthy environment for our employees & customers and will require all prospective employees to be fully vaccinated.
+
+The Ideal Candidate Should Possess
+Bachelor's degree in IT, Computer Science or equivalent.
+At least 8 years of experience in the area of big data, data warehousing operations. Successfully implemented large-scale data warehouse / data lake. At least 3 years of experience in managing a delivery and operations team.
+Experience in Big Data technologies e.g. Hadoop and Spark Ecosystems. In-depth knowledge of Big Data Lake, network probes and telecom network data including mobile and broadband. Knowledge of data architecture such as on-premise enterprise data warehouse, data federation, hub & spoke architectures and cloud native architecture.
+Strong technical skills in System hardening (Linux , Switches , Windows , Databases) standards based on CIS Framework initiated by Singtel and perform acceptance test to validate the hardening applied correctly and perform periodic security review using tools for scanning to detect vulnerabilities and work to mitigate the risks.
+Hands-on experience in handling incident, problem, configuration, capacity and availability management.
+Experience with modern application development using technologies such as Kubernetes, Docker, serverless functions, APIs, Kafka, etc.
+Knowledge of Python, Linux, Ansible automation. Preferably certified as Red Hat Architect.
+Good knowledge in Analytics-related technical platform and Analytics tools EDW, Reporting, Architecture, Data Modelling, data mining and AI/ML.
+Adequate understanding of Data protection, security and privacy aspect in Singapore.
+Team building experience
+About the job
+TD Bank Group
+Headquartered in Toronto, Canada, with more than 90,000 employees around the world, the Toronto-Dominion Bank and its subsidiaries are collectively known as TD Bank Group (TD). TD offers a full range of financial products and services to over 27 million customers worldwide through three key business lines:
+
+Canadian Retail including TD Canada Trust, Business Banking, TD Auto Finance (Canada), TD Wealth (Canada), TD Direct Investing and TD Insurance
+U.S. Retail including TD Bank, America’s Most Convenient Bank, TD Auto Finance (U.S.), TD Wealth (U.S.) and TD’s investment in Schwab
+Wholesale Banking including TD Securities
+
+TD had CDN$1.9 trillion in assets on October 31, 2022. TD also ranks among the world’s leading online financial services firms, with more than 15 million active online and mobile customers. The Toronto-Dominion Bank trades on the Toronto and New York stock exchanges under the symbol "TD".
+
+In Singapore, TD operates as The Toronto-Dominion Bank, Singapore Branch and Toronto Dominion (South East Asia) Limited, which are collectively known as “TD Singapore” since 1979. The key business in Singapore is TD Securities which is part of Wholesale Banking.
+
+Job Description:
+As the Engineer, Customer Identity and Access Management (CIAM) you operate in a team of fast-paced experts that design and implement policy logic supporting identity proofing, authentication, and authorization for customer identities across an integrated enterprise CIAM solution set. Your team prevents and disrupts account-level attacks targeting the global digital properties of TD.
+
+Your key partners are a cyber-fraud focused data science team that is constantly measuring results and surfacing opportunities for improvement and Fusion incident management teams that needs your help to implement countermeasures while responding to active threats.
+
+To excel in this role you need deep experience in the areas of: digital identity verification (identity proofing); customer authentication; authorization concepts, and related ecosystem integration.
+
+In advancing the Protect Platform's objectives you will collaboratively build and maintain highly effective and robust controls to protect TD Bank and our customers.
+
+Responsibilities / Accountabilities:
+Partner closely with leads in Cyber-Fraud threat modeling, hunting, and data science to maintain optimized protection logic across an integrated CIAM solution suite;
+Develop and maintain SME knowledge of dependencies and interconnections for and between CIAM solution components along with upstream and downstream controls that form the end-to-end layers of defense that protect our customers and the Bank;
+Design, implement, maintain, and optimize CIAM adaptive strategy in accordance with internal guiding principles and standards;
+Support development partners with formal QA and UAT review, as well as pre-launch preparation and planning;
+Provide technical expertise and solutioning in response to cyber-fraud events and incidents;
+Develop, solution, and invoke countermeasures to react to cyber incidents that exploit CIAM solution suite components;
+Build and maintain relationships with CIAM solution vendors for solutions in-use at TD while maintaining knowledge of emerging solutions;
+Conducts detailed root case analysis specific to CIAM solution set components when one or more components are involved in an incident as defined by TD's incident management team(s);
+Maintain knowledge of internationally recognized standards and best practices (eg. NIST Digital Identity Guidelines);
+Develop and maintain knowledge of product team customer experience objectives and find ways to enable a legendary customer experience while providing best-in-class security;
+Convey business and data requirements and support automation of existing manual analysis and testing;
+Contribute to TD's CIAM roadmap including the analysis, design and documentation to provide an improved environment and reduced risks;
+Support response to second and third line-of-defense inquiries and assessments of CIAM solution suite controls.
+
+Job Requirements:
+The incumbent should possess a minimum of three years of experience in authentication and identity proofing strategy with strong expertise in a combination of: digital identity proofing; risk-based authentication and authentication logic flaws; and cyber-fraud across Canada, the US, and beyond. They must maintain the highest professional standards regarding personal conduct while performing work, and must possess the ability to communicate complex information, concepts or ideas in a confident, well-organized and succinct manner. This role works core business hours but you and your team may be called upon 24/7 in the event of a high-severity incident that requires your expertise.
+
+Share your credentials, but your relevant experience and knowledge can be just as likely to get our attention. It helps if you have:
+Experience with customer identity and access management, preferably in a financial services environment.
+Expert level knowledge of common customer identity and access management (CIAM) concepts and tools.
+Knowledge of common security threats, industry best practices, security technologies and a strong ability to interpret and apply threat intelligence.
+Extensive experience with log analysis, knowledge of query structures, and regular expressions.
+Related industry certification (preferred CISSP, CISM, CISA, CEH, you get the idea…).
+Strong communication skills with the ability to provide technical guidance within your domain.
+
+Inclusiveness
+At TD, we are committed to fostering an inclusive, accessible environment, where all employees and customers feel valued, respected, and supported. We are dedicated to building a workforce that reflects the diversity of our customers and communities in which we live and serve. If you require an accommodation for the recruitment/interview process (including alternate formats of materials, or accessible meeting rooms or other accommodation), please let us know and we will work with you to meet your needs.
+About the job
+About UOB
+
+United Overseas Bank Limited (UOB) is a leading bank in Asia with a global network of more than 500 branches and offices in 19 countries and territories in Asia Pacific, Europe and North America. In Asia, we operate through our head office in Singapore and banking subsidiaries in China, Indonesia, Malaysia and Thailand, as well as branches and offices.
+
+Our history spans more than 80 years. Over this time, we have been guided by our values — Honorable, Enterprising, United and Committed. This means we always strive to do what is right, build for the future, work as one team and pursue long-term success. It is how we work, consistently, be it towards the company, our colleagues or our customers.
+
+About The Department
+
+The Data Management Office and Big Data Analytics function answers the demand for quality and credible data across the Group.
+
+Data Management Office
+
+We govern the use of data across the Group and provide guidance for data management and usage. This optimises the value of data to enable smarter, faster and more accurate decision-making as well as improve operational efficiency. Above all, we ensure adherence to all data governance standards as determined by regulators.
+
+DMO serves dual roles for UOB. First, DMO ensures that the Bank meets all data governance standards set by data regulators. Second, DMO optimises data management and usage to help the Bank make smarter, faster and more accurate decisions and to improve operational efficiency. DMO comprises Enterprise Data Governance & Quality, Enterprise Data Delivery and Monetisation and Enterprise Data Management
+
+The Enterprise Data Management (EDM) within the DMO serves as:
+The single point of contact for users across UOB for data issue escalations. The EDM ensures that data hosted in data warehouse is of good quality and conforms to data standards such as completeness, accuracy and consistency, to support regulatory and management reports. The team also promotes data automation and makes use of data to help develop initiatives to improve productivity.
+Data discovery through provision data requests to respective playpen for business units across the Group. The objective advocates self-service data exploration and analysis within and among Business/Support Units. Data definition and specification documents are available to provide navigational guidance and support for data provision purposes.
+
+Job Responsibilities
+
+The incumbent is responsible for multiple aspects of data management and operations for the firm, including database administration and design, business intelligence and data architecture, data analytics, governance, and quality. Specializes in the planning and delivery of computerized databases, including base definition, structure, documentation, long-range requirements, operational guidelines, and protection, ensuring accuracy and completeness of data in master files and various support tools, and performing needs assessments.
+
+Job Requirements
+Minimum Bachelor Degree or equivalent professional qualifications in Computer Science with at least 5 years of working experience in banking industry, preferably with business / functional knowledge;
+Experience in gathering and documentation of business requirements;
+Proficient in the following:
+Data Profiling
+Data Modeling
+Data Pipeline design
+SQL Scripting
+Automation
+PYSpark Programming
+Qlik Dashboarding
+Be a part of UOB Family
+
+UOB is an equal opportunity employer. UOB does not discriminate on the basis of a candidate's age, race, gender, color, religion, sexual orientation, physical or mental disability, or other non-merit factors. All employment decisions at UOB are based on business needs, job requirements and qualifications. If you require any assistance or accommodations to be made for the recruitment process, please inform us when you submit your online application.
+
+Apply now and make a difference.
+About the job
+Are you looking for value adding and impactful work?
+Do you want to make a difference with your expertise?
+
+With us, you’ll be able to make it happen.
+
+NCS is a leading technology services firm, operating across Asia Pacific in over 20 countries, providing services and solutions in consulting, digital services, technology, and more.
+
+We believe in utilizing the power of technology to make extraordinary things happen and to create lasting impact and value for our people, communities, and partners. Our diverse 12,000-strong workforce has delivered a wealth of large-scale, mission-critical, and multi-platform projects for governments and enterprises in Singapore and the APAC region.
+
+What we do
+We drive our passion for harnessing technology.
+We bring people and technology together.
+We advance communities and transform industries.
+
+We’re searching for a Sharepoint Analyst to be part of our diverse team of talent here at NCS!
+
+If you believe in going above and beyond, want to exemplify the best, and wish to bring people and technology together like never before, then we would love to have a conversation with you!
+
+What we seek to accomplish together:
+Help customers maximize their investment in SharePoint
+Support of existing customer applications built on the SharePoint platform
+Support of internal applications
+Identify and resolve system issues
+Help clients resolve application problems.
+Create database queries using SQL
+Maintain organized and informative system documentation
+Coordinate project activities with client
+
+A little about you:
+At least 1 Year of experience on SharePoint applications development using client-side scripting JSOM, CSOM, C#.
+Knowledge on SharePoint 2010 / 2013 and higher, SharePoint Online, Power Automate, PowerApps
+Knowledge on Asp.Net, C#, API, MVC
+Hands-on experience in client-side development and maintenance utilizing JavaScript, jQuery (and related libraries) and CSS3/HTML5
+Knowledge on Site Collection Administration, SharePoint Out of Box features like SharePoint List, Libraries, Workflows, Webparts, Master Pages, Permissions Management
+Experience in on-premises infrastructure components such as Internet Information Server, Active Directory, ADFS and Web Application Proxy
+Knowledge on Office 365 products and Azure, SharePoint Framework is an added advantage.
+Proactive individual contributor & team player
+Have effective analytical & problem-solving skills
+
+About NCS Group
+We want to create the extraordinary, and to impact millions of people everyday.
+We believe in building a talent-led delivery model to enable our best people to lead, and to support them with the right structure, processes, and tools to ensure that our clients are delivered top quality services.
+
+We want to invest in you!
+
+Great work is never done alone, and that’s why we also believe in creating a collaborative work environment to bring people with different expertise and talent together.
+
+We create opportunities for our people to grow in our organization with well-defined career tracks and specializations to ensure that our people and talent can continuously deliver new value for our clients.
+
+We’re here to make the extraordinary happen.
+
+Learn more at ncs.co and our LinkedIn Career site.
+
+All profiles are handled with highest level of confidentiality.
+
+We are committed to a safe and healthy environment for our employees & customers and will require all prospective employees to be fully vaccinated.
+About the job
+The Global Security Operations Center (GSOC) Analyst Manager is an embedded role with one of our major tech clients. The GSOC Analyst Manager help oversees the daily operations of team. The GSOC Analyst Manager provide analysis on intelligence gathered and serve in leadership capacity as needed.
+
+Essential Functions:
+
+Represent Pinkerton's core values of integrity, vigilance, and excellence.
+Provide oversight for quality review, successful project completion, and service delivery.
+Serve as the liaison between the client and Pinkerton to ensure the successful completion of task related to intelligence.
+Provide leadership to existing staff and assist with hiring and training new Analysts.
+Direct the workflow and task assignments of the Shift Supervisors, Intelligence Research Specialists, and Intelligence Analysts, as needed.
+Provide input on intelligence matters, including intelligence processes, support requirements, technical aspects, and operational methods.
+Evaluate, recommend, and implement intelligence operation-based changes.
+Responsible for the management of situational awareness tools.
+Serve as a backup to Intelligence Specialists and Intelligence Analysts.
+Provide administrative and data entry support.
+All other duties, as assigned.
+Education, Experience, and Certifications:
+
+Bachelor's degree with a minimum of 10 years of experience identifying and analyzing strategic risk in a corporate, military, or government environment. Pinkerton is an inclusive employer that seeks candidates with diverse backgrounds, experiences, and perspectives.
+
+Competencies:
+
+Experience working in GSOC, SIOC, or Fusion Center
+Able to present and defend intelligence positions to various audiences, including staff, representatives, and executive management team members.
+Strong writing skills in line with intelligence tradecraft standards.
+Demonstrated analytical and problem-solving experience providing business insights and recommendations from data sets.
+Excellent verbal, written, and interpersonal communication skills.
+Able to work in a fast-paced environment under multiple deadlines and competing priorities.
+Serve as an effective team leader.
+Able to build consensus and influence decision-makers.
+Computer skills; Microsoft Suite.
+Working Conditions:
+
+With or without reasonable accommodation, requires the physical and mental capacity to effectively perform all essential functions;
+Exposure to sensitive and confidential information.
+Regular computer usage.
+Occasional reaching and lifting of small objects and operating office equipment.
+Ability to adjust focus between close and distance vision.
+Must be able to work any shift including evenings, weekends, and holidays to ensure the successful completion of work assignments.
+Travel, as required.
+Pinkerton is an equal opportunity employer and provides equal opportunity to all applicants for all positions without regard to race/ethnicity, color, national origin, ancestry, sex/gender, gender identity/expression, sexual orientation, marital/prenatal status, pregnancy/childbirth or related conditions, religion, creed, age, disability, genetic information, veteran status or any protected status by local, state, federal or country-specific law. Pinkerton also adheres to all local, state, federal, and country hiring requirements.
+About the job
+Location: Dubai, UAE (We provide visa sponsorship & relocation assistance)
+
+Starting salary of USD 60,000 per annum + performance based bonus' - 0% tax environment.
+
+About Cobblestone Energy
+
+Cobblestone Energy is an energy trading company specialising in the Great Britain and European wholesale electricity markets. Founded in 2017, we are part of the next generation of companies defining the future of global commodity trading.
+
+We make use of advanced data analytics and extensive research to drive profitable decision making, trading enough electricity every day to power a small country, and growing every day. In doing so, we help to balance the electricity grid, lowering the cost to end consumers, and aiding the transition to a renewable future. Technology and risk management form the backbone of our business.
+
+At Cobblestone Energy, we are a diverse team of over 50 people from 20+ nationalities - we believe in hiring extraordinary talent from all around the world. Our flat organizational structure helps us in giving our team members complete ownership of the work and ensures ideas come from every level. We believe in providing unlimited growth opportunities to our people alongside constant feedback and support, which allows us to cover our vulnerabilities and grow as a team in new and interesting ways. With the right performance and potential, you could be managing the power desk for an entire country within eighteen months in your role. Come join our dream team!
+
+Cobblestone Values
+Lifelong learning with continuous reflection
+Independent thinking through a meritocracy of ideas
+The team is more important than the individual.
+Being the best in any market we enter
+Hiring and keeping only the most effective people
+Others must benefit from our existence.
+
+What We Offer In This Role
+A full-time position on our Commercial team
+Committed and remarkably talented colleagues.
+Highly competitive compensation dependent on performance
+An exciting, challenging and fulfilling career.
+Investment in your development to ensure that you always remain the best in business.
+Equity participation for strong contributors, ensuring our interests are all aligned long term.
+
+Do you have a passion for data and a solid foundation in mathematics and computer science? If you are a recent graduate or early career professional, Cobblestone Energy, a high-speed energy trading company in Dubai, is looking for you to join us as a Junior Data Scientist. Help drive informed decision making throughout the organization.
+
+As a Junior Data Scientist at Cobblestone Energy, you will play a critical role in supporting our energy trading operations. You will be responsible for collecting, cleaning, analysing, and interpreting large datasets to uncover trends, patterns, and insights that will drive our business decisions. You will also have the opportunity to develop predictive models to forecast energy prices and trends and collaborate with cross-functional teams to implement data-driven solutions.
+
+Key Responsibilities:
+Developing deep understanding of the industry and delivering key insights by analysing data
+Forecasting different fundamentals such as wind power generation and demand
+Researching and implementing new trading strategies
+Building and developing new or existing data infrastructure
+
+Your background:
+Bachelor's or master's degree in Computer Science, Mathematics, Statistics, or a related field
+Strong proficiency in programming languages such as Python and R
+Experience with data analysis and manipulation tools such as Pandas, NumPy, and SQL
+Knowledge of data visualization tools such as Matplotlib and Seaborn
+Experience that demonstrates your team-oriented, innovative, and strategic working styles.
+Pro-active and flexible work mentality
+Interest in data-driven trading
+Fluency in English, both written and spoken.
+
+About the Role: This is an exciting opportunity for a Junior Data Scientist to join a growing and innovative energy trading company. You will have the opportunity to work on challenging projects, gain valuable industry experience, and develop your skills in a supportive and dynamic environment.
+
+The Hiring Process
+
+Your application will undergo evaluation, followed by psychometric tests, a trading simulation, a research project, and remote interviews. Successful candidates will then be extended an offer to join our Dubai office as full-time Commercial Graduates through our Commercial Development Program (CDP). We will cover all relocation expenses, including flights, visas, housing, and necessary paperwork. The CDP provides a comprehensive rotational experience in data science, trading, and analytics, with guidance from our experienced commercial team. Throughout the program, you will receive mentorship and training in market fundamentals, leading to the development of strong analytical skills. Upon completion of the program, you will be a Junior Data Scientist
+
+If you are eager to learn, thrive in a fast-paced environment, and are passionate about using data to drive business decisions, we want to hear from you! Apply now and take the first step in your career as a Junior Data Scientist at Cobblestone Energy.
+About the job
+TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London, Paris, Berlin, Dubai, Singapore, Jakarta, Seoul and Tokyo.
+
+The E-Commerce Risk Control (ECRC) team is missioned:
+To protect Tiktok E-Commerce users, including and beyond buyer, seller, creator;
+By securing the integrity of our ecommerce ecosystem and providing a safe shopping experience on the platform;
+Through building infrastructures, platforms and technologies, as well as collaborating with many cross-functional teams and stakeholders.
+
+The ECRC team works to minimize the damage of inauthentic behaviors on Tiktok E-Commerce platforms (e.g. TikTok Shop, Jumanji, Fanno), covering multiple classical and novel community and business risk areas such as account integrity, incentive abuse, malicious activities, brushing, click-farm, information leakage etc.
+
+In this team you'll have a unique opportunity to have first-hand exposure to the strategy of the company in key security initiatives, especially in building scalable and robust, intelligent and privacy-safe, secure and product-friendly systems and solutions. Our challenges are not some regular day-to-day technical puzzles -- You'll be part of a team that's developing novel solutions to first-seen challenges of a non-stop evolvement of a phenomenal product eco-system. The work needs to be fast, transferrable, while still down to the ground to making quick and solid differences.
+
+Responsibilities
+Build rules, algorithms and machine learning models, to respond to and mitigate business risks in Tiktok products/platforms. Such risks include and are not limited to account integrity, scapler, deal-hunter, malicious activities, brushing, click-farm, information leakage etc.
+Analyze business and security data, uncover evolving attack motion, identify weaknesses and opportunities in risk defense solutions, explore new space from the discoveries.
+Define risk control measurements. Quantify, generalize and monitor risk related business and operational metrics. Align risk teams and their stakeholders on risk control numeric goals, promote impact-oriented, data-driven data science practices for risks.
+
+Qualifications
+Bachelor or degrees above in computer science, statistics, math, internet security or other relevant STEM majors (e.g. finance if applying for financial fraud roles).
+At least 5 years with solid data science skills. Proficiency in statistical analytical tools, such as SQL, R and Python.
+Familiarity with machine learning or social/content online platform analytics. Bonus given to proficiency in modern machine learning applications.
+Ability to think critically, objectively, rationally. Reason and communicate in result-oriented, data-driven manner. High autonomy.
+About the job
+Airwallex is the leading financial technology platform for modern businesses growing beyond borders. With one of the world’s most powerful payments and banking infrastructure, our technology empowers businesses of all sizes to accept payments, move money globally, and simplify their financial operations, all in one single platform.
+
+Established in 2015 in Melbourne, our purpose is to connect entrepreneurs, business builders, makers and creators with opportunities in every corner of the world. Today, Airwallex has a global footprint across Asia-Pacific, Europe, and North America.
+
+The Role: This is a diverse role working within Airwallex’s risk product & analytics domain with a focus on delivering data insights to drive product & analytics optimisations and enhancements. Airwallex is building a centralised risk platform that will harness advanced analytics and machine learning techniques to enable real-time decisioning across a diverse range of product lines and platforms. The risk product & analytics domain is responsible for building the platforms, engines & case management whilst also delivering the risk models so you will be involved in crafting the full end-to-end risk capability.
+
+Responsibilities：
+
+Work with risk stakeholders throughout the company to identify opportunities for leveraging company data to drive risk solutions.
+Mine and analyze data from the company database to drive optimization and improvement of risk strategies.
+Assess the effectiveness and accuracy of new risk data sources and data gathering techniques.
+Develop customized data models and algorithms to risk data sets and communicate the insights of the models to related stakeholders.
+Develop A/B testing framework and test model quality for risk product.
+Coordinate with multiple functional teams to implement models and monitor performance.
+Develop processes and tools to monitor and analyze model performance and data accuracy.
+
+Qualifications：
+
+Bachelor's degree or higher in Computer Science, Math & Statistics, Finance & Economics, Engineering or related data disciplines.
+At least 7 years of experience as a data analyst, data scientist or data engineer.
+Strong problem-solving skills with an emphasis on risk-related product development.
+Hands-on and solid experiences in using statistical computer languages (Python, R, SQL, etc.) to manipulate data and draw insights from large data sets.
+Knowledge of a variety of machine learning techniques (clustering, decision tree learning, neural networks, etc.) and their real-world advantages/drawbacks.
+Knowledge of advanced statistical techniques and concepts (regression, simulation, properties of distributions, statistical tests, etc.) and experience with applications.
+A drive to learn and master new technologies and techniques.
+Excellent written and verbal communication skills in English for coordinating across teams.
+Experience working on data-driven financial risk models (e.g., money-laundering risk, credit risk, fraud risk) is preferred.10 . Experience running data analytics under cloud environments and using web applications is preferred.
+
+At Airwallex you’ll have the ability to make an impact in a rapidly growing, global fintech. We want you to share in our success, which is why you’ll be offered a competitive salary plus valuable equity within Airwallex. We also like to ensure we create the best environment for our people by providing a collaborative open office space with a fully stocked kitchen. We organise regular team building events and we give our people the freedom to be creative.
+
+Airwallex is proud to be an equal opportunity employer. We value diversity and anyone seeking employment at Airwallex is considered based on merit, qualifications, competence and talent. We don’t regard colour, religion, race, national origin, sexual orientation, ancestry, citizenship, sex, marital or family status, disability, gender, or any other legally protected status. If you have a disability or special need that requires accommodation, please let us know.
+
+Airwallex does not accept unsolicited resumes from search firms/recruiters. Airwallex will not pay any fees to search firms/recruiters if a candidate is submitted by a search firm/recruiter unless an agreement has been entered into with respect to specific open position(s). Search firms/recruiters submitting resumes to Airwallex on an unsolicited basis shall be deemed to accept this condition, regardless of any other provision to the contrary.
+About the job
+Line of Service
+
+Assurance
+
+Industry/Sector
+
+TMT X-Sector
+
+Specialism
+
+Risk Architecture
+
+Management Level
+
+Manager
+
+Job Description & Summary
+
+We believe that challenges are better solved together. That's why you'll join a diverse, global community of solvers - an unexpected mix of people that come together to build trust in society and solve important problems. With us, you are encouraged to lead with your heart and values, and where your unique skills are developed and put to work in unexpected and exciting ways, superpowered by technology.
+
+Our General Assurance Practice works with organisations to navigate regulatory complexities by improving their corporate reporting, and supporting their compliance with regulatory requirements and contractual agreements. As one of the world's leading global network of audit firms, our clients include leading companies listed on the Singapore Exchange (SGX), MNCs and emerging companies in Singapore. As part of the firm’s largest line of service, we thrive in a dynamic and fast-paced working environment, helping clients across industries, interacting with every aspect of their activities, understanding their business to identify areas to add value and offer insightful audit advice.
+
+How will you value-add?
+
+Audit support
+Perform data analysis on business processes such as journal entry, payroll, procurement to derive actionable insights
+Perform report integrity and computation reviews to drive audit efficiencies
+Ensure data integrity, quality control checks and reconciliations when performing data analysis
+Data Visualization
+Develop data visualization dashboards on Tableau, Qlik or Power BI to identify trends, outlier and patterns in business processes
+Deliver and present results and insights to audit teams as well as external client
+Support in Digital Firm-wide Initiatives
+Support engagement teams in pilot projects for PwC proprietary tools on an ad-hoc basis
+Conduct and facilitate Digital Academy training to General Assurance
+Liaise with Learning & Development team on training requirement needs
+Facilitate Digital Acceleration workshops in the creation of automationworkflows for audit engagement
+Stakeholder and Project Management
+Collaborate with internal and external stakeholders to resolve data discrepancies and issues
+Review process efficiencies and make recommendations for process improvement
+Manage multiple concurrent audit support jobs and ensure that the results are delivered within agreed timeline
+Coach junior team members on business process and the use of data analytics tools
+About You
+Minimum 3 years experience
+Strong technical and analytical skill sets
+Good presentation skills, both oral and written
+Good client management skills
+Demonstrate strong interpersonal skills and ability to work closely with people at all levels of the organization
+Ability to work independently and perform under pressure
+Proficiency in using query languages such as SQL or ACL
+Proficiency in using data automation tools such as Alteryx, VBA etc (not mandatory)
+Experience with data visualization tools, such as Tableau, Qlikview, Qlik Sense or Power BI
+Financial auditor or IT auditor with data experience would also be considered
+Only shortlisted candidates will be notified due to the high number of applicants for this role.
+#Mid-Senior
+
+Education (if blank, degree and/or field of study not specified)
+
+Degrees/Field Of Study Required
+
+Degrees/Field of Study preferred:
+
+Certifications (if blank, certifications not specified)
+
+Required Skills
+
+Optional Skills
+
+Desired Languages (If blank, desired languages not specified)
+
+Travel Requirements
+
+Not Specified
+
+Available for Work Visa Sponsorship?
+
+Yes
+
+Government Clearance Required?
+
+Yes
+
+Job Posting End Date
+About the job
+Project Description
+You'll be working in the Global Cyber Threat Intelligence team, informing Client's cyber defense teams. As a Cyber Threat Intelligence Lead, you'll play an important role in protecting the firm from cyber-attacks and advanced threat actors.
+
+Responsibilities
+We're looking for an experienced Cyber Threat Intelligence Analyst to:
+- Join a global team of cyber threat intelligence analysts, supporting client's follow-the-sun operations.
+- Provide intelligence support to all teams across the Cyber Defense and Strategy function.
+- Take lead in producing tactical, operational and/or strategic cyber threat intelligence assessments.
+- Leverage your experience with intelligence operations to help shape the team's strategy and continuous improvement.
+- Perform all-source cyber intelligence collection and analysis.
+- Consume and evaluate threat intel to understand the evolving threat landscape, adversarial tactics, techniques, and procedures (TTPs), and areas of concern/targeting that could potentially impact our environment.
+- Respond to requests for ad-hoc reporting and research topics from management as required.
+
+
+Must have Skills
+Your expertise
+- 4+ years of experience in a threat intelligence role or conducting structured analysis in an intelligence role or similar.
+- Demonstrated knowledge of global cyber threats, threat actors and the tactics, techniques and procedures (TTPs) used by cyber adversaries, particularly as they relate to the financial sector.
+- Able to explain the various motivations underpinning why nation-state, criminal, and ideologically motivated hackers conduct cyber operations.
+- Able to explain why adversaries would use virtual private servers (VPSes), proxies, or anonymization services such as Tor during operations.
+- Familiarity with nation-state and cybercriminal groups historical targeting.
+- Strong verbal and written communication skills, with the ability to present analyses to both technical and non-technical audiences.
+- Able to explain the differences between zero-day and n-day vulnerabilities.
+- Experience with analytical tradecraft, as well as knowledge of analytic frameworks, such as analysis of competing hypotheses (ACH), what-if analysis, alternative futures analysis, intelligence preparation of the operating environment (IPOE), etc.
+- Knowledge of qualitative or quantitative analysis frameworks and techniques.
+- Experience with models for threat analysis, such as the Diamond Model, Cyber Kill Chain and MITRE ATT&CK framework.
+- Significant experience in intelligence report production.
+- Able to manage competing priorities and work effectively under pressure.
+- Ability to work seamlessly with analysts across a global team.
+- Able to build relationships across the firm and among external networks.
+
+
+Preferred experience
+- Fluency in one or more foreign languages.
+- Experience conducting threat modeling and leveraging threat modeling frameworks.
+- Existing relationships or the ability to grow relationships with threat intelligence sharing communities and trust groups.
+- Experience with and demonstrated comprehension of concepts and terminology concerning forecasting and predictive methodologies.
+- Demonstrated understanding of and experience analyzing external factors (political, economic, social, etc) that influence the threat landscape, preferably with subject matter expertise in a geographic region or country.
+About the job
+About the role
+As a senior/principal development process engineer, this role will define, facilitate and propagate various quality processes across all technical teams within the organization. This role will also dive into the various applicable standards applicable to the organization and be the driver for all things process within the organization. This role aims to maintain and seek continuous improvement strategies to ensure the development of quality products through consistent and reliable methods which conform to both internal and external industry/certification standards.
+Responsibilities
+Define engineering processes to be adopted in the organization.
+Study and adopt best practices from various engineering process methodologies.
+Be the expert within the organization for all engineering process matters.
+To keep abreast with applicable standards and government regulations relating to autonomous vehicles.
+Perform quality assurance functions with regard to the products/prototype developed.
+Maintain quality management system while ensuring compliance with all related government agencies, and customers’ requirements and regulations.
+Ensure system/software development processes meet quality and regulatory requirements and identify areas and opportunities to improve quality system processes.
+Monitor and maintain quality standards, including tracking, updating and maintaining of SOPs and Work Instructions under the company quality framework.
+Interact with other functional departments including Engineering and Production to resolve issues relating to products and processes.
+Drive adoption of new system/software development process practices.
+Develop and conduct training on system/software life cycle framework to technical teams and other stakeholders within the organization.
+Perform internal audits to evaluate quality system, products and processes.
+Liaise with external assessment body on all matters related to any the external accreditation process
+Candidate requirements
+Bachelor or Master’s Degree in the Software or Electrical engineering fields.
+Working knowledge of product development, and specifically system/software development processes, Software Engineering Best Practices.
+Experience in defining and driving quality improvement processes within system and software development life cycle frameworks.
+Experience with software development in a programmer, tester, project management or related capacity.
+Strong communication and interpersonal skills, able to interact with various stakeholders with excellent communications and interaction skills, including presentation.
+Team player with strong interpersonal skills, skilled in developing collaborative relationships
+Passionate in Autonomous vehicle development.
+Open to entry level candidate
+Good-to-Have the following:
+Hands-on and working knowledge in leveraging data and process from CI/CD toolsets (Gitlab, Jira, Jenkins etc).
+Familiar with ISO9001 / AS9100 Quality Management System requirements and ISO15288 System Development Standards.
+3 yrs working experience with Quality Management Systems in the product Quality Assurance field.
+Working experience in relevant system engineering standards (ISO 26262 , IEC 61508)
+Experience with PLM process and tools
+About the job
+We are Assembly – and we’re not like the rest. We’re the modern alternative agency, bringing together industry-leading data, talent, and tech to Find the Change That Fuels Growth for the best brands on the planet, including Adobe, Lane Crawford, Marina Bay Sands, and more. Our diverse, global community of over 1,600 passionate experts combines global thinking with unmatched local expertise in more than 20 markets worldwide – enabling brands to engage and move consumers anywhere. We use STAGE, Assembly’s proprietary, privacy-centric data solutions platform, to surface powerful insights that transform into actionable brand opportunities. We’re at the cutting edge of new media, technology, and platforms embedded in the lives of today’s consumers, and we’re tapped into how culture and communities’ needs change. We do this while staying steadfast in our commitment to Leave the World Better Than We Found It through measurable social and environmental impact work.
+
+Assembly was named The Drum’s APAC Media Agency of the Year in 2021
+
+What You’ll Be Doing On Any Given Day
+Support and coordinate with the web analytics team and BI team on day to day challenges encountered on datasets and perform different data analytics tasks on different platforms.
+Assist senior team members to troubleshoot data discrepancy issues and solve ad-hoc requests from the clients.
+With data managers’ guidance, manage reports and datasets from various channels and platforms, including (but not limited to) various mainstream media platforms such as Google and Bing, and analytics platform such as GA and AA.
+This includes setting up processes to pull data from platforms and channels, managing data sources, processing and manipulating the data and consolidating data across multiple data sources in SQL databases
+Work with the team to manage, modify, QA, and incorporate any additional data sources upon clients’ data requirements.
+Build, manage, modify and maintain dashboards.
+Support regular reports and presentations with key findings, observations, data insights and recommendation
+Create, manage and improve new or existing datasets where needed.
+Addressing challenges or opportunities presented by clients or teams and creating bespoke solutions using technology
+
+The role will have the potential to span all existing channels (including but not limited to display, paid social, organic performance, affiliates, content creation and localization) as well as working on standalone propositions and new services centered around the use of structured data.
+
+Requirements
+
+DOES THIS SOUND LIKE YOU?
+Must have good understanding of SQL and able to write queries
+Strong analytical individual who enjoys lateral thinking and problem solving
+Attention to detail with the ability to effectively troubleshoot issues across various data sources and platforms
+Data driven approach to optimisation and testing to show full value of changes
+Proactive individual who is confident taking the initiative and working with colleagues across teams and departments
+Experience working with and consolidating multiple data sources (direct from engines, google sheets, FTP, HTTP etc.)
+Proactive, motivated, self starter and willing to learn
+Fluent in English, any other language is a plus
+Experience with visualization tools is a plus, such as Google Data Studio, Tableau, PowerBI, Datorama.
+Any additional coding or data management experience
+Understanding of data ecosystem and mainstream data platforms
+1-3 years working experience in digital marketing industry is a plus
+Experience working in data management or educational background in digital and analytics is a plus
+
+Benefits
+
+WHY ASSEMBLY?
+We’re part of Stagwell, the challenger network built to transform marketing. We’re nimble, smart, and digital-first, and we’re quickly growing to take on the biggest legacy hold cos.
+We care about your growth – we offer competitive salaries, annual compensation reviews, and keep detailed personal development plans to ensure you’re hitting your personal and company goals.
+We recognize and celebrate your success…all the time! Whether it’s through company meetups, employee recognition programs, or just a regular day, we make sure our people’s achievements are known and appreciated!
+We’re truly a people-first organization. That’s why we offer a Flexible Time Off policy that puts you in control of your work-life balance, as well as market-leading primary and secondary caregiver and parental leave policies.
+We care about social and environmental Impact – we have dedicated Impact Champions that collaborate globally to make sure we’re leaving the world better than we found it.
+We have an amazing group of employee resource groups committed to guiding the agency to become more inclusive, diverse, and representative of the world around us.
+
+Sound like the right role for you? Click to apply now!
+About the job
+Binance is the global blockchain company behind the world’s largest digital asset exchange by trading volume and users, serving a greater mission to accelerate cryptocurrency adoption and increase the freedom of money.
+
+Are you looking to be a part of the most influential company in the blockchain industry and contribute to the crypto-currency revolution that is changing the world?
+
+Responsibilities
+
+Develop and maintain data engineering systems across the data lifecycle, including data pipelines for batch and streaming applications
+Develop APIs to support high throughput data processing, feature engineering, risk algorithms and data science use cases
+Develop data quality monitoring and alert systems to ensure high availability and high quality data sources
+Design and upgrade of data architecture to support new data applications, technical enhancements and business requirements
+
+Requirements
+
+At least 6+ years experiences of developing big data-related applications
+Proficient in Java language, familiar with Spring framework, and micro-service architecture
+Proficient in big data pipeline development including batch and streaming processing
+Familiar with big data components like Hadoop, Hive, Spark, Spark Streaming, Flink, Presto, Hbase, Kafka
+Experience in big data product development is a plus, including data warehouse, query platform, streaming, recommendation, user profiling, risk management, etc.
+Team working, analytical mind, be optimistic, willing to accept challenges and quick response against incidents
+
+Working at Binance
+
+Do something meaningful; Be a part of the future of finance technology and the no.1 company in the industry
+Fast moving, challenging and unique business problems
+International work environment and flat organisation
+Great career development opportunities in a growing company
+Possibility for relocation and international transfers mid-career
+Competitive salary
+Flexible working hours, Casual work attire
+
+By submitting a job application, you confirm that you have read and agree to our Candidate Privacy Notice .
+About the job
+Job Responsibilities:
+
+
+Provide the Technical interface for customers and be a customer advocate.
+Experiment and test material for improved characterization for customer specifications
+Establish optimal routing of qualification/production material based on material characterization testing and yield information.
+Clarify customer specifications and work with Process Technology and Supply Chain on how to manufacture wafers to meet the customer requirements.
+Provide support to internal business units and research and development projects.
+Develop alternative product flows to enhance our yield and respond to customer changes.
+Determine disposition of any discrepant material internally and any customer shipments.
+Inform groups of customers latest development in technology trends. Develop strategies to meet the trends.
+Act as Representative in technical conferences and classes, where necessary.
+
+Job Requirements:
+
+
+Degree in Materials Science, Electrical or Chemical engineering, and Physics. Masters or Ph.D. are welcomed.
+Semiconductor industry experience or knowledge is required.
+Experience in material processing and wafer fabrication.
+Basic knowledge of customer devices and specifications.
+Knowledge of database software, spreadsheet software, statistical software packages, and project management techniques.
+Teh Hui Tian, Zoe EA License No. 02C3423 Personnel Registration No. R2089915
+
+
+Please note that your response to this advertisement and communications with us pursuant to this advertisement will constitute informed consent to the collection, use and/or disclosure of personal data by ManpowerGroup Singapore for the purpose of carrying out its business, in compliance with the relevant provisions of the Personal Data Protection Act 2012. To learn more about ManpowerGroup's Global Privacy Policy, please visit https://www.manpower.com.sg/privacy-policy
+About the job
+Job Reference #
+
+264309BR
+
+Job Type
+
+Full Time
+
+Your role
+
+We’re looking for a Cyber Threat Intelligence Lead to:
+
+
+lead a team of intelligence analysts in the APAC region, supporting UBS’s follow-the-sun operations.
+oversee production of cyber threat intelligence across the spectrum of operational levels.
+leverage your expertise with intelligence operations to help shape the team’s strategy and continuous improvement.
+provide expert intelligence support to all teams across the Cyber Defense and Strategy function.
+perform all-source cyber intelligence collection and analysis.
+consume and evaluate threat intel to understand the evolving threat landscape, adversarial tactics, techniques, and procedures (TTPs), and areas of concern/targeting that could potentially impact our environment.
+respond to requests for ad-hoc reporting and research topics from management as required.
+produce detailed intelligence analysis on cyber threats and convey potential impact.
+
+Your team
+
+You’ll be working in the Global Cyber Threat Intelligence team, informing UBS cyber defense teams. As a Cyber Threat Intelligence Lead, you’ll play an important role in protecting the firm from cyber-attacks and advanced threat actors.
+
+Your expertise
+
+
+4-6 years of experience in a threat intelligence role, or conducting structured analysis in an intelligence role or similar
+detailed knowledge of global cyber threats, threat actors and the tactics, techniques and procedures (TTPs) used by cyber adversaries, particularly as they relate to the financial sector
+extensive experience with analytical tradecraft with deep knowledge of analytic frameworks, such as analysis of competing hypotheses (ACH), what-if analysis, alternative futures analysis, intelligence preparation of the operating environment (IPOE), etc
+significant expertise in intelligence report production, to include critically evaluating the application of analytic tradecraft
+experience conducting threat modeling and leveraging threat modeling frameworks
+existing relationships with threat intelligence sharing communities and trust groups
+expertise with models for threat analysis, such as the Diamond Model, Cyber Kill Chain
+experience with concepts and terminology concerning forecasting and predictive methodologies
+nuanced understanding of external factors (political, economic, social, etc) that influence the threat landscape, preferably with subject matter expertise in a geographic region
+
+About Us
+
+UBS is the world’s largest and only truly global wealth manager. We operate through four business divisions: Global Wealth Management, Personal & Corporate Banking, Asset Management and the Investment Bank. Our global reach and the breadth of our expertise set us apart from our competitors.
+
+With more than 70,000 employees, we have a presence in all major financial centers in more than 50 countries. Do you want to be one of us?
+
+How We Hire
+
+This role requires an assessment on application. Learn more about how we hire: www.ubs.com/global/en/careers/experienced-professionals.html
+
+Join us
+
+At UBS, we embrace flexible ways of working when the role permits. We offer different working arrangements like part-time, job-sharing and hybrid (office and home) working. Our purpose-led culture and global infrastructure help us connect, collaborate, and work together in agile ways to meet all our business needs.
+
+From gaining new experiences in different roles to acquiring fresh knowledge and skills, we know that great work is never done alone. We know that it's our people, with their unique backgrounds, skills, experience levels and interests, who drive our ongoing success. Together we’re more than ourselves. Ready to be part of #teamUBS and make an impact?
+
+Disclaimer / Policy Statements
+
+UBS is an Equal Opportunity Employer. We respect and seek to empower each individual and support the diverse cultures, perspectives, skills and experiences within our workforce.
+
+Your Career Comeback
+
+We are open to applications from career returners. Find out more about our program on ubs.com/careercomeback.
+About the job
+What we do:
+
+Kognitiv enables leading organizations to form collaborative commerce networks, unearth value for their consumers, and markedly improve returns.
+
+Founded in 2008, Kognitiv enables collaborative commerce through its proprietary technology platform and performance model for leading global brands to build their own peer-to-peer trading networks. In June 2020, Kognitiv and Aimia’s Loyalty Solutions companies came together to create a technology-forward business, employing over 500 people across 20 countries worldwide.
+
+With 200+ clients and partners in more than 50 markets globally, Kognitiv brings to life a world where brands work together to create new opportunities for less, gain direct access to new audiences, and create network effects where everyone wins, all the time.
+
+About the opportunity:
+
+As a Senior Analyst at Kognitiv, you will be part of a talented Data Science team focused on client delivery. You will be tasked with providing high-quality in-depth analysis and recommendations, reporting and data visualization, presenting findings and analytical insights to other members of the team and/or Kognitiv clients. As well as building predictive models and/or customer segmentations, being a steward of data and analytics across the team and organization, mentoring and providing support to the more junior members of the team.
+
+Responsibilities include (but are not limited to):
+
+Gather business requirements and then translate into analytics objectives and analysis plan that you and the team can begin working towards
+Analyze complex business issues and effectively communicate meaningful insights based on data trends / patterns found in data
+Build clean, concise and digestible visualizations and dashboards for the team and/or client to use and gain insight from
+Conduct in-depth analysis and post-campaign analysis to evaluate ESPs performance & ROI, and provide recommendations for improvement
+Deliver insights and recommendations, via summary or presentations (slides), to internal teams in a client-ready state
+
+Machine Learning & other POC
+
+Build machine learning models such as clustering for member segmentation and predictive models to uncover opportunities for maximizing customer wallet share (e.g. upsell/cross-sell/retention)
+Develop and implement new analytical methodologies and techniques for clients
+Continue to develop and build-out the best practices for analytics and share learnings with peers
+Contribute to the evolution and internal innovation of our Analytics and Data Science capabilities, toolsets and knowledge-base
+
+Background and Experience:
+Minimum Qualifications:
+
+Bachelor’s degree in Business, Analytics, Computer Science, Management Information Systems, Statistics or related field
+Fluency in SQL
+Experience with at least one core statistical programming language (e.g. R, python)
+Comprehension of data visualization best practices
+Experience with data visualization tools (e.g. Tableau, PowerBI, Domo, Looker)
+Strong Microsoft Suite skills, especially with Excel & PowerPoint
+
+Preferred Qualifications:
+
+Ideally 3-5 years of relevant analytical experience
+Prior experience building predictive modelling and member segmentation models
+Experience and understanding of A/B and multivariate testing best practices and application
+Experience with AWS technology stack including Redshift
+Experience with version control and code hosting services (e.g. Bitbucket, Github)
+Comfortable synthesizing and presenting technical concepts and insights
+
+We are a passionate, innovative organization with just over 500 team members globally and we are looking for exceptional people to come and join us. This is an exciting opportunity to work for an international business, in a high energy environment with a collaborative, smart and passionate team. If you like the sound of us and the role: get in touch!
+
+Here at Kognitiv, we don’t just accept difference - we celebrate it! Greater diversity means greater variation in ways of thinking, perspectives and approach. And we thrive on it for the benefit of our employees and our clients. Kognitiv are committed to creating an inclusive environment and all employment is decided on the basis of qualifications, merit, fit and business need.
+
+We always welcome international candidates to apply providing they are eligible to work and live in Singapore
+About the job
+The Role
+We are looking for a talented software engineer that has a deep understanding of Machine Learning and experience deploying models in production. Building a next-gen virtual assistant (for mobile, metaverse and automotive applications) that can understand complex utterances and speak new languages will be a big part of your role, along with designing and implementing a highly intuitive experience for our users.
+
+You will have the role of improving MeetKai's ML capabilities across Search, NLU, Personalization and Online Learning. ML theoretical knowledge, while useful, is not as necessary as the ability to test and deploy models and large scale datasets. This is your opportunity to help usher a new era of human - computer interaction, and be part of our ambitious and dynamic team.
+
+Responsibilities
+Design and train personalization models, providing insights towards innovative new approaches and features tailored to users in APAC, Europe and the Middle East
+Engineering Natural Language Processing and Speech components specific to your languages
+Using the power of large amount of data to tackle complex NLP and machine learning problems
+Develop processes for automatic deployment of ML models upon improvements and train deep learning models at scale
+Productionize trained models (potentially on edge)
+
+Requirements
+4+ years of experience with Python
+2+ years of experience with Pytorch or Tensorflow
+Has worked in the industry for more than 1 year
+Demonstrated ability to write thoughtful, maintainable code under tight deadlines in a fast paced environment
+Proven ability of using creative approaches for solving complex problems
+Relevant project experience in Natural Language Processing, Machine Learning or related sub-fields
+
+Nice to have
+Bachelor's or Master's Degree in Computer Science, Information Systems or equivalent experience
+Experience with deploying ML models in the cloud or on edge devices
+Have experience with distributed queueing technologies like Kafka
+Experience with online learning algorithms and models
+Fluency in a 2nd language: Chinese, Indonesian, Arabic, Malay, Japanese, Korean, Hindi, Spanish, German, French, Italian
+About the job
+Monitor and track system issues and risks bring it up for discussion with internal and external stakeholders.
+Implement best practices and framework to improve from current state to increase the efficiency of project delivery.
+Manage vendor to deliver test execution for projects, change requests and service requests on time to meet overall project goals.
+Develop project plans which include requirements, scope, deliverables, resources, and schedules.
+Ensure smooth transition from project delivery to operations.
+Provide guidance to junior colleagues to assist incumbent to meet the project management outcomes.
+Infrastructure Setup Testing labs at different sites for all kinds of testing such as integrated Testing, Parallel Revenue Cycle Testing, User Acceptance Testing including all required equipment.
+Monitoring testing activities to ensure they are scheduled on time and roster preparation including testing scripts reviewed and ready
+Gathering feedback from various stakeholders on daily test results and communicate this effectively with external parties to discuss on the test findings to ensure bugs are fixed
+To ensure the availability of third party systems by communicating with Interface Functional Testing as entry criteria and subsequently, the testing staging environment to be available to perform testing.
+Review of the test deliverables (Test plans, Test execution documents, Test closure reports).
+Proper documentation of project materials for easy reference for all stakeholders.
+Maintain a consistent management dashboard for status reporting to management.
+
+Requirements
+Bachelor’s Degree and above in Business, Information Technology, Computer applications
+Minimum 5 years of experience with large change efforts or in change management projects with especially in Software Testing (if possible in a large organization setting) and project management experience.
+Experience in the healthcare industry and NGEMR will be an advantage
+Project Management and Testing related certification is preferred
+Knowledge of Software Testing, Change Management principles, methodologies and tools
+Testing Tools expertise such as JIRA from configuration, administration and maintenance
+Good understanding of how people go through change and the change process
+
+Interested candidates, please send CV to connie@triton-ai.com
+
+Reg No. R1875181
+
+Triton AI Pte Ltd
+
+License no. 21C0661
+
+Benefits
+Up to $5500, Permanent Role with AWS and 2-3 months Variable Bonus
+Healthcare Industry located at West
+Software Testing and Project Management Experiences
+Entry level is welcome
+About the job
+About Accenture
+
+Accenture is a global professional services company with leading capabilities in digital, cloud and security. Combining unmatched experience and specialized skills across more than 40 industries, we offer Strategy and Consulting, Technology and Operations services and Accenture Song—all powered by the world’s largest network of Advanced Technology and Intelligent Operations centers. Our 710,000 people deliver on the promise of technology and human ingenuity every day, serving clients in more than 120 countries. We embrace the power of change to create value and shared success for our clients, people, shareholders, partners and communities. Visit us at www.accenture.com.
+
+Data Scientist (Machine Learning)
+
+
+Analyzes raw information through statistical analysis to discover trends or patterns that can be used for building data products to extract valuable business insights.
+
+Synthesizes data and methodologies into actionable business strategies.
+
+Enhances data collection procedures for building analytical systems.
+
+Uses predictive modeling to increase and optimize customer experiences, revenue generation and other business outcomes.
+
+Utilizes machine learning algorithms and models and presents them using data visualization techniques.
+
+Has strong familiarity with statistical software packages such as R, Python, SAS and Scala as well as different end-to-end data science and advanced analytics tools such as Microsoft Azure Machine Learning.
+
+Has an exceptional understanding of the different software utilities for data and computation such as Hadoop, Apache Spark and Impala.
+
+Collaborates with the company’s business clients to identify gaps and structure problems as well as to propose solutions and strategies to business challenges.
+
+Develops processes and tools to monitor and analyze model performance and data accuracy.
+
+Leads trainings and informational sessions on statistics.
+
+Min. 6 - 12 years of relevant experience
+
+Experienced in leading a team
+
+Strong background in statistical concepts and calculations
+
+Experience in handling real data
+
+Innovative and strong analytical and algorithmic problem solvers
+
+Experience with scripting languages (e.g., Python, Ruby, Perl, Bash) for orchestration and data manipulation and statistical computing tools like R, SAS, and SPSS
+
+Data engineering experience, including SQL and experience manipulating structured and unstructured data sources for analysis. Preferred Skills
+
+Experience with MapReduce/Hadoop and related technologies (e.g., Pig, Hive, Cascading).
+
+Familiarity with Amazon Web Services and Elastic MapReduce a plus.
+
+Familiarity with Hadoop based commercial packages (e.g. Cloudera, Hortonworks)
+
+Experience in text mining/NLP
+
+You will also have opportunities to hone your functional skills and expertise in an area of specialization. We offer a variety of formal and informal training programs at every level to help you acquire and build specialized skills faster. Learning takes place both on the job and through formal training conducted online, in the classroom, or in collaboration with teammates. The sheer variety of work we do, and the experience it offers, provide an unbeatable platform from which to build a career.
+
+Accenture is an equal opportunities employer and welcomes applications from all sections of society and does not discriminate on grounds of race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, or any other basis as protected by applicable law.
+About the job
+Job Purpose
+
+Reporting to the Lead of Data Science, this role is responsible to ensure the successful delivery of group wide data science initiatives. These initiatives typically include the application of data science models on structured, semi structured and unstructured data to derive business insights with a potential to drive business performance.
+
+The Senior Data Scientist is expected to work closely with key stakeholders and possess the relevant technical skills required to implement data science solutions that enable the use of data as a strategic asset.
+
+The Job
+Participate in the build of group wide data science capabilities, with a focus on organizing, analysing and interpreting data to uncover patterns and trends and establishing how these findings can help increase business value through making better informed decisions.
+Perform exploratory data analysis, build and enhance data science models to help drive business performance.
+Work closely with business stakeholders to drive integration and adoption of analytics insights into new and existing business processes by demonstrating the ability to communicate the business benefits provided by analytics insights.
+Conduct regular reviews on planned and existing data science initiatives and identify ways to develop integrated data science solutions across geography and function.
+Support the build of data products including data science feature stores to support the build of data science models.
+Support the build of visual dashboards primarily aimed at monitoring the outcomes of data science models.
+Ensure all data science project undertaking comply with both internal and external policies, guidelines and regulations.
+Provide group level support to extended data science team based in other GE offices.
+Takes accountability in considering business and regulatory compliance risks and takes appropriate steps to mitigate the risks.
+Maintains awareness of industry trends on regulatory compliance, emerging threats and technologies in order to understand the risk and better safeguard the company.
+Highlights any potential concerns /risks and proactively shares best risk management practices.
+Our Requirements
+Masters or BS in Business Analytics, Computer Science, Statistics, Economics, Actuarial Science or equivalent disciplines that focuses on extensive use of data for analysis.
+5 to 7 years of experience participating in data science and analytics projects as an individual contributor required.
+Working level competency in Python and SQL programming required
+Practical knowledge in statistical and machine learning techniques including GLM, Regression, Random Forest, Boosting, Trees, Text Mining, Network analysis, etc required.
+Practical knowledge in open source libraries such as scikit-learn, numpy, TensorFlow etc. is required.
+Experience in data visualization software such as Tableau is a plus.
+Experience in using BigQuery, Google Analytics and Amazon SageMaker is a plus.
+Experience in insurance or financial services industry is a plus.
+High level of integrity, takes accountability of work and good attitude over teamwork.
+Takes initiative to improve current state of things and adaptable to embrace new changes.
+To all recruitment agencies: Great Eastern does not accept unsolicited agency resumes. Please do not forward resumes to our email or our employees. We will not be responsible for any fees related to unsolicited resumes.
+About the job
+Airwallex is the leading financial technology platform for modern businesses growing beyond borders. With one of the world’s most powerful payments and banking infrastructure, our technology empowers businesses of all sizes to accept payments, move money globally, and simplify their financial operations, all in one single platform.
+
+Established in 2015 in Melbourne, our purpose is to connect entrepreneurs, business builders, makers and creators with opportunities in every corner of the world. Today, Airwallex has a global footprint across Asia-Pacific, Europe, and North America.
+
+What You Will Do
+
+Define, understand, and test opportunities and levers to improve the product, and drive roadmaps through your insights and recommendations
+Work with large and complex data sets to solve a wide array of business problems using different analytical and statistical approaches
+Apply technical expertise with quantitative analysis, experimentation, data mining, and the presentation of data to develop strategies for our products Identify and measure success of product efforts through goal setting, forecasting, and monitoring of key product metrics to understand trends.
+Partner with Product, Engineering, and cross-functional teams to inform, influence, support, and execute product strategy and investment decisions
+
+What You Will Bring
+
+5+ years industry experience and an advanced degree in a quantitative field
+Experience with communicating the results of analyses to executives and cross-functional teams to influence the strategy
+Expert in data querying languages (e.g. SQL), scripting languages (e.g. Python), and/or statistical/mathematical software (e.g. R), experience in schema design and dimensional data modeling a plus
+Ability to perform statistical analysis to drive data-informed decisions
+Experience in technology, financial services and/or a high growth environment is advantageous
+
+At Airwallex you’ll have the ability to make an impact in a rapidly growing, global fintech. We want you to share in our success, which is why you’ll be offered a competitive salary plus valuable equity within Airwallex. We also like to ensure we create the best environment for our people by providing a collaborative open office space with a fully stocked kitchen. We organise regular team building events and we give our people the freedom to be creative.
+
+Airwallex is proud to be an equal opportunity employer. We value diversity and anyone seeking employment at Airwallex is considered based on merit, qualifications, competence and talent. We don’t regard colour, religion, race, national origin, sexual orientation, ancestry, citizenship, sex, marital or family status, disability, gender, or any other legally protected status. If you have a disability or special need that requires accommodation, please let us know.
+
+Airwallex does not accept unsolicited resumes from search firms/recruiters. Airwallex will not pay any fees to search firms/recruiters if a candidate is submitted by a search firm/recruiter unless an agreement has been entered into with respect to specific open position(s). Search firms/recruiters submitting resumes to Airwallex on an unsolicited basis shall be deemed to accept this condition, regardless of any other provision to the contrary.
+About the job
+What The Role Is
+
+The Data Operations and Intel Division in IMDA is the cybersecurity arm that process and analyse data to discover trends and precursors to potential incidents that can impact the resilience and cybersecurity posture of the infocomm and media sector.
+
+You will be part of the team that research and gather data to analyse and generate intel on potential resilience and cybersecurity risks and threats. You will work closely with the team to develop the supporting capabilities that enable intel gathering, analysis, sense making and sharing of data.
+
+What You Will Be Working On
+Strategise data analytics development focus areas to meet organisation’s cybersecurity and resilience needs
+Research and implement new statistical or machine learning models, using an ensemble of mathematical methodologies as needed for specific models or analysis
+Research and implement approaches to enhance and optimise existing data analytics models to improve performance, precision and confidence level
+Develop processes and tools to monitor and analyse model performance and data accuracy.
+Coordinate with different functional teams to implement models and monitor outcomes.
+Work with stakeholders throughout the organisation to identify opportunities for leveraging data to improve cybersecurity capabilities
+Work with vendors to develop data analytics systems and validate accuracy of data models developed.
+Monitor advancements in big data technologies and identify new tools and frameworks that could improve efficiency and fine tune existing data analytics platforms.
+
+What We Are Looking For
+Degree / Masters in Computer Science / Computer Engineering / Mathematics / Statistics / Data Science and Analytics.
+At least 4 years of experience in quantitative data analytic or machine learning model development for cybersecurity or network infrastructure use cases using big data platforms.
+Knowledge of a variety of machine learning techniques (clustering, decision tree learning, artificial neural networks, etc.) and their real-world advantages/drawbacks.
+Experience creating and using advanced machine learning algorithms and statistics: regression, simulation, scenario analysis, modelling, clustering, decision trees, neural networks, etc.
+Knowledge of advanced statistical techniques and concepts (regression, properties of distributions, statistical tests and proper usage, etc.) and experience with their application.
+Experience in using databases and frameworks for big data analytics such as Hadoop / Hive / Spark, and able to write complex SQL queries.
+Familiarity with big data streaming tools, database frameworks and visualisation tools such as Apache NiFi, Storm, Spark, Hadoop, Airflow, Kibana, Tableau and their areas of applicability.
+Domain knowledge and experience in Computer networking, Network security, or System security is preferred.
+Good understanding of Artificial Intelligence, Machine Learning and Deep Learning concepts.
+Good writing, communication and presentation skills.
+Fast learner with self-motivation and independence to acquire knowledge on new domains or technologies quickly.
+
+This position will commensurate with experience
+
+Only shortlisted applicants will be notified
+About the job
+Binance is the global blockchain company behind the world’s largest digital asset exchange by trading volume and users, serving a greater mission to accelerate cryptocurrency adoption and increase the freedom of money.
+
+Are you looking to be a part of the most influential company in the blockchain industry and contribute to the crypto-currency revolution that is changing the world?
+
+Responsibilities
+
+Sourcing, ingestion and analysis of blockchain ecosystem data (on-chain as well as off-chain data metrics) and liaising with relevant internal and external for the same
+Analytics for community, developer relations, marketing and campaigns from sources such as Twitter, Discord, Telegram, Similarweb as well as other social / community / marketing related platforms
+Identifying new data sources for analysis of dapps and emerging sectors (e.g. social, metaverse)
+Identifying new data sources to benchmark BNB chain against upcoming competitor chains
+Liaising with big data team to execute the extraction of new data sources and building data pipelines (ETL, visualisation) for final consumption
+Liaising with external data platforms to ensure representation and accuracy of BNB chain metrics
+
+Requirements
+
+Familiarity with blockchain ecosystem - top chains, general understanding of functional domains (DeFi, Gaming, NFT, SocialFi) - preferred experience with on-chain data platforms
+Proficient in data engineering, modeling and ETL - preferred experience with data sourcing and working with APIs
+2-5 experience with data engineering, business analytics, insight generation and visualisation
+Experience with typical toolkits: SQL, Python, rest/post APIs, Twitter API plus data visualisation tools such as Tableau
+
+Working at Binance
+
+Do something meaningful; Be a part of the future of finance technology and the no.1 company in the industry
+Fast moving, challenging and unique business problems
+International work environment and flat organisation
+Great career development opportunities in a growing company
+Possibility for relocation and international transfers mid-career
+Competitive salary
+Flexible working hours, Casual work attire
+
+By submitting a job application, you confirm that you have read and agree to our Candidate Privacy Notice .
+About the job
+About Us
+
+Artefact is the next generation end-to-end data service company, with a focus on consulting and marketing, that helps organisations transform data into value and business impact.
+
+Our broad range of data-driven solutions in data consulting and digital marketing are designed to meet our clients’ specific needs, always conceived with a business-centric approach and delivered with tangible results.
+
+We have 900+ employees across 18 offices who are focused on accelerating digital transformation. Thanks to a unique mix of company assets: State of the art data technologies, lean AI agile methodologies for fast delivery, and cohesive teams of the finest business consultants, data analysts, data scientists, data engineers, and digital experts, all dedicated to bringing extra value to every client.
+
+About The Role
+
+Key Areas of Responsibility
+
+As a Senior Data Scientist, Your Role Will Encompass
+Conducting ambitious projects in the transformation of clients through data ;
+Collaborating with the other Divisions (Activation, Creativity, and Strategy) to provide comprehensive services to your clients ;
+Developing privileged relationships with our clients, using your technical abilities to assist in the transformation of their marketing department.
+Among your responsibilities as a Senior Data Scientist, you will be responsible for:
+
+Performing data projects
+Securing delivery on your projects
+Communicating your work and achievements among the team
+Working closely with your Consulting counterpart to build and maintain strong relationships with your clients and best understand their needs
+Ensuring that your solutions are bringing values to the client problematic
+Being a good team player, knowing your role and responsibility in the global ambition
+Being a great tech person
+Demonstrating the skill and credibility required to ensure the success of our clients’ initiatives
+Researching and developing new technical approaches to address problems efficiently
+Sharing best practices and contributing to Artefact’s institutional knowledge
+Embodying Artefact’s values and inspiring others to do the same
+Competences & Skills
+A Master's degree in machine learning, mathematics, computer science, or related fields
+At least 5 years of hands-on experience developing and applying data-driven solutions in a corporate or consulting setting, preferably in a consumer marketing context (experience in the web industry is a plus)
+Strong knowledge of data processing, data modeling, algorithms, and data architecture
+Intellectual curiosity and excellent problem-solving skills, including the ability to structure and prioritise an approach for maximum impact
+Our Belief
+
+We believe data is changing the world, and it’s just the beginning. We want this to be done in the right way, with transparency and ethics. This is the only way to create sustainable impact for business and society.
+
+Our Mission
+
+We are on a mission to build the next generation of data leaders who:
+Fully capture the power of data & digital to deliver business value ;
+Bring understanding, trust & transparency of data into our society.
+Our Values
+Collaboration : People of different background and expertise working closely together;
+Trust & Transparency: Dealing with data topics with integrity and ethics; Realistic and honest with our capabilities and limitations;
+Innovation: Always working on the most trendy and new topics on data and digital; Always on top of the new ways of using data;
+Action: We would rather do than to tell what to do; Has a “building the plane while flying” agile mentality.
+Our Unique Attributes
+We bring great value to business and create a better society with the understanding, transparency and ethical use of data ;
+We build the next generation of data leaders ;
+We disrupt the market :
+Data Native - Born with data and defining data ;
+ART + SCIENCE - Mixture of talents in ART (Creative, Planning, Media, Consumer Engagement) and SCIENCE (Data Consulting, Data Science, Data Engineer) ;
+One P&L - Integrated & collaborative, with all chapters working toward the same goal ;
+End to End - Capabilities from Strategize to Build to Run.
+Visit our website at www.artefact.com or follow us on WeChat
+About the job
+This job is sourced from a job board. Learn more
+Create and optimize end-to-end data pipelines to populate the data marts from multiple data sources
+Perform data profiling to understand data quality of source data, and address data quality issues through data transformation and data loading
+Provide support for UAT and PROD implementation
+Takes accountability in considering business and regulatory compliance risks and takes appropriate steps to mitigate the risks.
+Maintains awareness of industry trends on regulatory compliance, emerging threats and technologies in order to understand the risk and better safeguard the company.
+Highlights any potential concerns /risks and proactively shares best risk management practices.
+
+Desired Skills and Experience
+UAT, Business Intelligence, Regulatory Compliance, Pipelines, Hadoop, Informatica, Data Transformation, ETL, Risk Management, Data Quality, SQL, C#, Databases
+About the job
+Project OT Engineer (Fixed-term 2 years)
+
+Summary
+
+The Project OT (Operation Technology) Engineer is working in billion-dollar scale projects to deliver the Digitalisation Strategy for the Facility. Digital innovation requires Operational Technology (OT) systems, such as ICSS, Vendor Control Systems, Marine Packages through to Telecommunication etc, to interact and connect with Enterprise Information Technology systems. With OT-IT integration, the data collected by physical equipment, vendor systems and devices can be used to identify problems or increase efficiencies.
+You will be focusing on connecting a previously isolated Systems and Equipment within OT network to the Enterprise IT environment and coordinating the data and information use into Advanced Analytics, Al, Automation, and other application to improve Business and Operational processes.
+In addition, you will assist with the development and sustainment of robust processes for data handling / governance, enabling the management of tactical and strategic interactions between Digital team and other business units across the organization.
+MODEC is a part of the Mitsui Group and employs around 5000 people from 25 countries. Our Singapore office occupies the top floors of the Metropolis building, right next to the Buona Vista MRT.
+
+
+Accountabilities and Functions (flexible according to the level as Project OT Engineer);
+
+• Advocate, integrate and improve on existing technology change management process.
+• Develop, implement, and troubleshoot interfaces between the Business Systems and OT Networks.
+• Assist with Scoping, Development and Management of OT projects.
+• Assist with Hardware Lifecycle planning and standardization.
+• Liaising with key stakeholders
+• Participates in project design reviews to ensure consistency with required business outcomes.
+• Analyse Operation Technology (OT) and Information Technology (IT) networks for opportunities to improve integration, network architecture and security.
+• Provide architectural advice and oversight and input into selected Operational Application implementation projects
+• Design, document and deliver technical solutions to integrate FPSO OT Technology within company and client enterprise architectures.
+• Communicate effectively with, and between the immediate team, business subject matter experts, developers, analysts, engineers, end users of systems and management.
+• Report to Operation Technology Lead in Digital & Analytics department to support global
+initiatives across projects and phases
+• Interact with Tech Team in Digital & Analytics department to support building digital infrastructure and solutions in-house and with 3rd party
+
+
+Knowledge (required knowledge and experience);
+
+• More than 3 years’ experience of control system “hands-on” design in oil & gas industry.
+• Broad understanding of Technology Infrastructure and Applications to support FPSO Operations.
+• Understanding of Industrial Communications protocols.
+• Understanding of Network design and infrastructure used in both OT and IT realms.
+• Excellent communication skills with a strong technology focus.
+• Ability to understand complex and detailed business processes.
+• Having awareness of problems for conventional control system design and/or rooms for the improvement with Digital techniques.
+• Bachelor’s or Master’s degree in relevant field of Engineering (With a strong knowledge of Logic and/or Programming Language/s)
+
+
+Knowledge (not MUST, but PLUS; no need to have all points listed below);
+
+• Understanding of Cyber Security standards (IEC, ISO, NIST or equivalent). Certified competencies highly regarded.
+• Understanding of FPSO ICSS and Vendor Control Systems.
+• Understanding of Operational Challenges for Integrating and managing OT systems.
+• Understanding of Data structures, Data conditioning and manipulation.
+• Understanding of Virtualisation, Server equipment and SAN Solutions (either in Use, Management or Design)
+• Understanding of EPCI Engineering Development Tools and Lifecycle Information.
+• Good knowledge of System’s Engineering approaches, tools and their application.
+About the job
+TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London, Paris, Berlin, Dubai, Singapore, Jakarta, Seoul and Tokyo.
+
+The E-Commerce Risk Control (ECRC) team is missioned:
+To protect Tiktok E-Commerce users, including and beyond buyer, seller, creator;
+By securing the integrity of our ecommerce ecosystem and providing a safe shopping experience on the platform;
+Through building infrastructures, platforms and technologies, as well as collaborating with many cross-functional teams and stakeholders.
+
+The ECRC team works to minimize the damage of inauthentic behaviors on Tiktok E-Commerce platforms (e.g. TikTok Shop, Jumanji, Fanno), covering multiple classical and novel community and business risk areas such as account integrity, incentive abuse, malicious activities, brushing, click-farm, information leakage etc.
+
+In this team you'll have a unique opportunity to have first-hand exposure to the strategy of the company in key security initiatives, especially in building scalable and robust, intelligent and privacy-safe, secure and product-friendly systems and solutions. Our challenges are not some regular day-to-day technical puzzles -- You'll be part of a team that's developing novel solutions to first-seen challenges of a non-stop evolvement of a phenomenal product eco-system. The work needs to be fast, transferrable, while still down to the ground to making quick and solid differences.
+
+Responsibilities
+Build rules, algorithms and machine learning models, to respond to and mitigate business risks in Tiktok products/platforms. Such risks include and are not limited to account integrity, scapler, deal-hunter, malicious activities, brushing, click-farm, information leakage etc.
+Analyze business and security data, uncover evolving attack motion, identify weaknesses and opportunities in risk defense solutions, explore new space from the discoveries.
+Define risk control measurements. Quantify, generalize and monitor risk related business and operational metrics. Align risk teams and their stakeholders on risk control numeric goals, promote impact-oriented, data-driven data science practices for risks.
+
+Qualifications
+Bachelor or degrees above in computer science, statistics, math, internet security or other relevant STEM majors (e.g. finance if applying for financial fraud roles).
+At least 3 years with solid data science skills. Proficiency in statistical analytical tools, such as SQL, R and Python.
+Familiarity with machine learning or social/content online platform analytics. Bonus given to proficiency in modern machine learning applications.
+Ability to think critically, objectively, rationally. Reason and communicate in result-oriented, data-driven manner. High autonomy.
+About the job
+Our client is an investment holding company with a strong presence in the region. They are hiring for a Principal Data Scientist to join the team.
+
+RESPONSIBILITIES:
+Understand business requirements from senior stakeholders and present data solutions in a clear and concise manner
+Develop and implement advance analytics solutions to provide useful business insights
+Deploying AI techniques including time-series forecasting and NLP to solve business problems in production environment
+Mentoring the data science team and sharing of AI industry best practices
+
+REQUIREMENTS:
+Bachelor’s or Master’s in Data Science, Computer Science or equivalent with at least 5 years of data analytics experience
+Proficient in Python and SQL
+Excellent experience in time-series forecasting and NLP
+Must be able to explain complicated data solutions to C-suite in an easy-to-understand manner
+Proven work experience implementing ML solutions in production environment
+Experience in KDB and Sagemaker will be preferred
+
+Please contact Xavier Yap at XavierY@charterhouse.com.sg for a confidential discussion
+
+EA License no: 16S8066 | Reg no.: R1980978
+
+Only successful candidates will be notified.
+About the job
+Job description:
+
+Job Responsibilities
+
+
+Serve as primary source of data insights supporting internal and external constituencies
+Analyse and translate data findings into meaningful, actionable insights – including synthesising relevant insights from different customer touch points and data sources
+Lead, design and implement quantitative analytical frameworks, including scalable predictive models, customer segmentation and advertising optimisation that improve business performance and customer engagement
+Institute and adopt best practices in data science, platforms and approaches.
+Establish internal organisational standards and benchmarks
+Work with other teams in Mediacorp to understand business needs, document data and data integration requirements, and resolve conflicting business/data architecture rules. Ensure compliance with internal customer contact governance policies and drive closed-loop measurement through smart data capture.
+Become an internal authority on Mediacorp’s data tools and resources
+Support ad-hoc business intelligence and other strategic initiatives
+
+
+Requirements
+
+
+PhD or MS degree in Statistics, Mathematics, Machine Learning, Operations Research, Computer Science or related field.
+Minimum 5 years hands-on experience in data science, including developing and productionising data science models
+Demonstrated expertise in developing and implementing a full range of analytical techniques to address commercial challenges. Proficiency in at least one statistical analysis tool.
+Demonstrated experience with distributed databases and query languages. Proficiency in at least one programming language (preferably Java, C++, Python).
+Must possess exceptional business judgment to identify core business objectives; synthesise and interpret disparate quantitative information, and develop commercial insights for key stakeholders
+
+
+Mediacorp is committed to creating an inclusive and diverse workplace where talent thrives. Our hiring decisions are made based on merit and fit-to-role. If you have a disability or special need which requires accommodation to participate in the recruitment process, please inform us when you submit your online application. We will be happy to support as necessary.
+
+
+Thank you for your interest and application to this role. Please note that only short-listed candidates will be contacted.
+About the job
+Singtel x Singapore Institute of Technology have embarked on a Work-Study Programme (WSP) launched in Feb 2023. The WSP is called “The Catalyst Programme” which is a structured on-the-job (OJT) development WSP that allows Polytechnic Diploma holders to secure a full-time position with Singtel while pursuing a university honours degree in Applied Computing. This programme is open to Singtel’s internal employees as well as external polytechnic diploma holders preferably from the ICT domain. Non-ICT diploma holders are encouraged to apply as well. In line with building capability in Singapore ICT sector this program will develop & groom talent over a 3-year period completing micro-credentials for each module which eventually stack-up to an honours degree in Applied Computing. Candidates will be offered a specific role as the one shared below. Are you ready for this challenge?
+
+We are looking for an Associate Data Scientist within the Group Enterprise business of Singtel.
+
+Key Responsibilities
+Develop models and perform statistical analysis to identify key insights in enterprise customer experience, pricing prediction or network optimization
+Develop dashboards and other visualisation tools for intended users
+Assist with data processing tasks required in production support
+Work with other data scientists to drive and operationalize model outputs
+The Ideal Candidate Should Possess
+Basic programming skills in Python, SQL
+Strong interest in statistical, data mining, AI and machine learning algorithms
+Possess strong analytical and problem-solving skills
+Team player with good communications and presentation skills
+We are committed to a safe and healthy environment for our employees & customers and will require all prospective employees to be fully vaccinated.
+About the job
+Changing communities for the better starts with you
+
+Civica is a global organisation of over 5,000 employees, providing smart software to deliver the public services of the future and improve outcomes for citizens.
+
+In our team we have some truly amazing people - smart, passionate, fun. And there’s plenty of room for you to join us.
+
+So, are you ready to become part of our vision in building a better world though smart software and cloud services?
+
+What does it take to become a Civican?
+
+The ETL Analyst role sits within Civica’s health project in Singapore providing support to the functional team in building the ETL (Extract, Transform, Load) rules for loading data to the system. This is a great opportunity for someone proficient in MS Office especially MS Excel (ability to use VLOOKUP) to be trained up on a dedicated interface and gain ETL knowledge.
+
+The ideal candidate will be highly organised, driven, and proactive in approach. You will be able to work as part of a team and independently.
+
+We welcome your unique talents
+
+There is no such thing as the perfect candidate, so if you think you have what it takes, but don't necessarily meet every single point on the list below, please still get in touch. We'd love to have a chat and see if you could be a great fit. (It’s also a fact that women and underrepresented groups tend to only apply when they check every box…)
+
+A day in the life…
+To perform entry of transformation rules using system interface
+To document transformation rules that have been built
+To ensure the transform areas for each customer are managed and ordered as required
+
+Why you’ll love working with us
+
+We know that when our people are happy they will work better and have greater work satisfaction. We are an Australian Business Awards Employer of Choice and a UK Financial Times Diversity leader for the second year in 2021, rising 400 places and ranking 10th overall in the IT and software sector. We work with leading organisations such as the Tech Talent Charter and White Ribbon
+
+So here at Civica, we look after you. Here’s what you can expect:
+
+Career opportunities – we take great satisfaction in seeing you grow and share your knowledge to other parts of our large business.
+
+We’re all different – and we love this about us. We provide an inclusive, safe and welcoming environment to all Civicans, new and old
+
+Focus on learning– there are heaps of opportunities to enable you to grow and be your best.
+
+Apply for this job - Become part of something special
+About the job
+Responsibilities
+
+Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Helo, and Resso, as well as platforms specific to the China market, including Toutiao, Douyin, and Xigua, ByteDance has made it easier and more fun for people to connect with, consume, and create content.
+
+The Data Intelligence team in Global Payments leads the efforts of discovering data-driven business values for Global Payments, by collecting, visualising and mining generated data from the pipeline of whole Global Payments system. The outcomes include optimising the key business metrics, improving Global Payments products and user experiences, risk management through data intelligence, predicting the trends from historical data, etc.
+
+Responsibilities
+
+Improve payment performance and drive business growth of ByteDance's core businesses, such as e-commerce, TikTok, and games;
+Responsible for data analysis, data mining and strategy generation for intelligent recommendation and real-time risk management;
+In-depth analysis of the core logic of the payment business, and construct the business data system and the user portrait system;
+Comprehensively analysis of various factors affecting the growth of payment products, and produce product feasible optimisation plans based on the overall direction of the payment business.
+
+Qualifications
+
+Bachelor's degree or above in Computer Science, Statistics, Mathematics or other related majors;
+At least 3 years of experiences and above;
+Strong interest in data analysis, data mining and algorithm intelligence;
+Solid foundation of data structure and algorithms;
+Strong data mining capabilities, proficient in collaborative filtering, FM, LR, NN, LSTM and other common algorithms;
+Familiarity with open source machine learning tools;
+Proficient in SQL and Python programming;
+Familiarity with C++/Java/Golang is preferred;
+
+ByteDance is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At ByteDance, our mission is to inspire creativity and enrich life. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We believe individuals shouldn't be disadvantaged because of their background or identity, but instead should be considered based on their strengths and experience. We are passionate about this and hope you are too.
+About the job
+QSE Manager
+
+As part of The Coca-Cola Company, Pacific Refreshments is a strategic concentrate manufacturing plant in Asia. We are an export facility, specializing in the manufacturing of concentrates and beverage bases, with a complex portfolio, supporting the ASEAN, South Pacific and Southwest Asia Operating Units.
+
+We are on a journey of growth; having completed the construction and expansion of our site towards doubling our manufacturing capacity. We have also embarked on our digital transformation journey, striving to be the Lighthouse for the Consumer Products Supply (CPS) plants in Asia and to be a leader in digital transformation.
+
+Pacific Refreshments Pte Ltd is a winner of the ‘2020 HR Asia Best Companies to Work For’ Award.
+
+Position Overview
+
+Manage and enhance the Quality, Safety & Environment (QSE) function in full responsiveness to business needs of the Plant while striving to ensure the company’s policies and procedures are enforced and adhered to, for concentrates and beverage bases manufacturing to achieve highest quality products.
+Ensure full compliance with TCCC safety, occupational health and environment and food safety policies as well as with local regulatory requirements pertaining to safety, food safety and environment
+Lead in implementation and certification of KORE/ISO systems and ensure associates capability enhancement to adapt to the complexity in operation.
+As the member of leadership team in the Plant, set BP targets for the Plant, and track, measure and analyse Plant KPIs for QSE and ensure corrective and preventive actions are taken to achieve the BP targets.
+Additional responsibility to lead any global and regional QSE projects and initiatives.
+
+Responsibilities
+
+Strategy: Set the strategic direction and annual Business Planning (BP) for QSE function:
+
+Design and develop QSE Goals to achieve BP targets for QSE.
+Lead the development and execution of the strategy to enable effective implementation of the quality, food safety and EOSH objectives. Review and analyze the effectiveness of the QSE system through tracking of the key performance indicators and develop plans for improvement.
+Guide and direct development of programs and procedures for zero defect manufacturing and governance on adherence. Implement consistent value and quality driven management routines in the plant, assess and increase processes quality capability to meet regulatory standards.
+Governance & Metrics for process, productivity, and quality improvement.
+
+People & Infrastructure Capability Management
+
+Support QSE team members to develop and improve self in their capabilities, capacities, leadership and competences.
+Drive a QSE work-stream team to deliver the projects and initiatives, allocating the right resources in the right work scopes.
+
+Implementation Of Governance And Program Management
+
+Implements new test procedure, test equipment’s by proper investigations and validating alternate proposals and recommendations.
+Lead a cross functional teams in the plant which includes Production, supply chain, procurement, QA, HR, Finance, Admin to implement the system and EOSH requirements (ISO 9001, ISO 14001, ISO 18001, FSSC 22000, ISO/IEC 17025 and KORE, as well as Halal where applicable). Ensuring all the certifications/audits planned for the year are achieved.
+Lead to develop protocol for validation new methods, technology, and process in manufacturing.
+Continuously monitor requirements with local regulations related to quality, S&E, food safety, and ensure that plant follows all the requirements, in terms of licensing, the ingredients/materials in use and all the manufacturing processes.
+Lead and encourage the team in exhibiting best in class GMP. Brainstorm ideas and collaborate with Corporate/other plants/certification agencies on implementation of Best-in-Class practices.
+Continue to implement always-audit-ready-culture, management systems and practices. Implement standardized CAPA program and internal audit program.
+
+Ensure Compliances And Drive Continuous Improvement
+
+Strategically review to retain and improve QSE function knowledge/skills.
+Review and monitor new laws and regulations, conduct gap analysis to comply with any new requirements
+Lead communications between the customers, CS and Operations team on any quality and safety related issues to address.
+Lead communications between regulatory bodies, Corporate/Asia, BU, and any Certification bodies related to licensing and certifications.
+Facilitate replication of best practices and adoption of standard through a defined communication programs with outside stakeholders.
+Lead and implement BBS and Zero Accident Culture in the operations, observing and monitoring trends of accident frequency and severity rates and removing the obstacles.
+Develop and implement permanent fix through improvement in documentation, processes and equipment.
+Lead the projects and initiatives for value creation within QSE areas to drive continuous improvements not compromising food safety and quality.
+
+Risk Management
+
+Pro-actively work with stakeholders to identify and mitigate risk through process definition and various risk reduction methodologies.
+
+Requirements
+
+Minimum 7-10 years in food manufacturing or pharmaceutical company in similar positions – managing Quality, Safety & Environment.
+Should have solid knowledge of chemistry, food science and their application to the beverage industry, advanced analytical instruments, statistical process control, method validations, measurement of uncertainty and data interpretation etc.
+Thorough knowledge and understanding of Food Safety requirements of local regulations.
+Good knowledge of regulatory requirements related to Environmental and Safety, auditing, and problem-solving skills.
+Solid technical knowledge and skills in Safety and Environment.
+People management experience in a virtual working environment or exposure to working with global and/or regional project teams is preferred.
+Degree in a scientific discipline is required.
+Postgraduate qualification in Science (Chemistry, Food Science, Pharmaceutical Science) is preferred. May be substituted with relevant work experience.
+Business acumen is required to drive continuous improvement in the system.
+
+Skills
+
+Product Specifications; Supply Chain; Critical Control Points; Quality Assurance Systems; Quality Metrics; Process Controls; Good Manufacturing Practices (GMP); Project Management; Quality Reporting; Food Safety; Quality Inspections; Packaging; Process Engineering; Microsoft Office; Communication; Global Collaborations; Shipping; Statistical Process Control (SPC); Lean Six Sigma Processes; Food Chemistry; Continuous Improvement (CI)
+
+Our Purpose And Growth Culture
+
+We are taking deliberate action to nurture an inclusive culture that is grounded in our company purpose, to refresh the world and make a difference. We act with a growth mindset, take an expansive approach to what’s possible and believe in continuous learning to improve our business and ourselves. We focus on four key behaviors – curious, empowered, inclusive and agile – and value how we work as much as what we achieve. We believe that our culture is one of the reasons our company continues to thrive after 130+ years. Visit Our Purpose and Vision to learn more about these behaviors and how you can bring them to life in your next role at Coca-Cola.
+
+We are an Equal Opportunity Employer and do not discriminate against any employee or applicant for employment because of race, color, sex, age, national origin, religion, sexual orientation, gender identity and/or expression, status as a veteran, and basis of disability or any other federal, state or local protected class. When we collect your personal information as part of a job application or offer of employment, we do so in accordance with industry standards and best practices and in compliance with applicable privacy laws.
+
+R-81297
+About the job
+About Us
+
+LSEG (London Stock Exchange Group) is more than a diversified global financial markets infrastructure and data business. We are dedicated, open-access partners with a dedication to excellence in delivering the services our customers expect from us. With extensive experience, deep knowledge, and worldwide presence across financial markets, we enable businesses and economies around the world to fund innovation, manage risk and create jobs. It’s how we’ve contributed to supporting the financial stability and growth of communities and economies globally for more than 300 years. Through a comprehensive suite of trusted financial market infrastructure services – and our open-access model – we provide the flexibility, stability and trust that enable our customers to pursue their ambitions with confidence and clarity.
+
+LSEG is headquartered in the United Kingdom, with significant operations in 70 countries across EMEA, North America, Latin America and Asia Pacific. We employ 25,000 people globally, more than half located in Asia Pacific. LSEG’s ticker symbol is LSEG.
+
+Our People
+
+People are at the heart of what we do and drive the success of our business. Our culture of connecting, creating opportunity and delivering excellence shape how we think, how we do things and how we help our people fulfil their potential. We embrace diversity and actively seek to attract individuals with unique backgrounds and perspectives. We break down barriers and encourage teamwork, enabling innovation and rapid development of solutions that make a difference. Our workplace generates an enriching and rewarding experience for our people and customers alike. Our vision is to build an inclusive culture in which everyone feels encouraged to fulfil their potential.
+
+We know that real personal growth cannot be achieved by simply climbing a career ladder – which is why we encourage and enable a wealth of avenues and interesting opportunities for everyone to broaden and deepen their skills and expertise. As a global organisation spanning 70 countries and one rooted in a culture of growth, opportunity, diversity and innovation, LSEG is a place where everyone can grow, develop and fulfil your potential with meaningful careers.
+
+Role Profile
+
+A great opportunity for a Data Scientist to work within a multi-disciplinary and dynamic team in the growing field of Sustainable Finance.
+
+Role Summary
+
+You will be operating as a Data Scientist within our Sustainable Financing and Investing (SF&I) Innovation team. The team itself is multi-disciplinary, based across London and Singapore and comprises of specialists in SF&I research, data science, software engineering and design.
+We perform research and build out POCs over a range of growing SF&I domains including ESG Forensics, Climate Scenario Analysis, Physical Risk, ESG scoring methodologies etc. The work is project based and as such the successful candidate is unlikely to be assigned to a single product - information about specific projects would be discussed during the interview process.
+The successful candidate will be a brilliant Data Scientist with a passion for Sustainable Finance.
+
+What You'll Be Doing
+
+Perform scientific research into the latest methodologies and technologies within SF&I and Data Science.
+Scope and build POCs, present outputs to stakeholders, collaborate with UX designers to iterate, Engineers to support and scale, and product managers to handle expectations and timelines.
+Locate, clean, wrangle large quantities of internal and external data.
+
+What You'll Bring
+
+PhD or master’s degree in a highly quantitative field such as computer science, physics, applied mathematics, or engineering
+3+ years working as a Data Scientist
+Ability to individually conduct scientific research
+Excellent communication and interpersonal skills and ability to work as part of a multi-disciplinary team
+Strong programming experience in Python and its core libraries like NumPy, Pandas and Scikit-Learn and ability to write production-level code
+Hands-on experience with ML, Deep Learning, or NLP
+Experience producing and rapidly delivering minimum viable products / POCs
+Experience extracting data from APIs, relational, NoSQL, or Graph databases
+A good understanding of finance and/or financial issues linked to ESG, and sustainable investing is desirable
+Experience analysing and working with geospatial data is desirable
+Experience with an MLOps technology stack (Kubernetes, MLFlow, Amazon SageMaker, Docker etc) is desirable
+
+What You’ll Get In Return
+
+In return, you will have the opportunity to work in a vibrant, passionate, and dynamic team working on some of the core problems facing the future of finance in the face of climate change
+Great benefits package and annual bonus scheme
+Opportunities to learn and progress
+Autonomy over your work and the direction of projects
+
+We recognize that to attract the best talent, we need to be flexible and we are open to discussing work arrangements with you. We take hybrid approach to workplace; this role is Blended.
+
+At LSEG, we believe that creating a diverse and inclusive organisation is fundamental to the way we deliver on our promise of creating essential partnerships and open opportunities. Our open culture is central to how we deliver our purpose – driving financial stability, empowering economies and enabling customers to create sustainable growth – in everything we do.
+
+Working with us means that you will be part of a dynamic organisation of 25,000 people across 70 countries. However, we will value your individuality and enable you to bring your true self to work so you can help enrich our diverse workforce. You will be part of a collaborative and creative culture where we encourage new ideas and are committed to sustainability across our global business. You will experience the critical role we have in helping to re-engineer the financial ecosystem to support and drive sustainable economic growth. Together, we are aiming to achieve this growth by accelerating the just transition to net zero, enabling growth of the green economy and creating inclusive economic opportunity.
+
+LSEG offers a range of tailored benefits and support, including healthcare, retirement planning, paid volunteering days and wellbeing initiatives.
+
+We are proud to be an equal opportunities employer. This means that we do not discriminate on the basis of anyone’s race, religion, colour, national origin, gender, sexual orientation, gender identity, gender expression, age, marital status, veteran status, pregnancy or disability, or any other basis protected under applicable law. Conforming with applicable law, we can reasonably accommodate applicants' and employees' religious practices and beliefs, as well as any mental health or physical disability needs.
+
+Please take a moment to read this privacy notice carefully, as it describes what personal information London Stock Exchange Group (LSEG) (we) may hold about you, what it’s used for, and how it’s obtained, your rights and how to contact us as a data subject.
+
+If you are submitting as a Recruitment Agency Partner, it is essential and your responsibility to ensure that candidates applying to LSEG are aware of this privacy notice.
+About the job
+A well-respected healthcare organisation is looking for a Senior Data Scientist with strong engineering skills to join their talented team in Singapore. This role involves working with mature healthcare systems and the ideal candidate will have a passion for making a real difference to lives of others.
+
+Key Responsibilities:
+
+Build, evaluate, and deploy data science models
+Collaborate with team members, including software engineers, ML engineers, data engineers, and product owners, in code reviews and critical feedback sessions to improve product delivery
+Work across disciplines to recommend the best solution for the problem at hand, leveraging data analytics tools
+Continually learn new analytical skills, techniques, and tools to increase competitive advantage; participate in internal and external technology communities
+Partner with and influence stakeholders across the organisation in the development of the company's data architecture and data governance frameworks
+
+You'll definitely have...
+
+Master's Degree in a STEM subject and experience in a related field, such as programming, statistics, data science, or equivalent experience (Data science, Mathematics, Statistics, Information Engineering, Computer Science, or similar)
+Hands-on experience with analytics, machine learning, statistics in a commercial environment
+A broad knowledge of technology, comfortable recommending non-data science solutions
+Proven experience of effective stakeholder management and strong influencing skills
+
+It'd be nice if you have...
+
+PhD in a STEM subject and experience in a related field, such as programming, statistics, data science, or equivalent experience (Data science, Mathematics, Statistics, Information Engineering, Computer Science, ML, AI, Bioinformatics or similar)
+Knowledge of the data landscape in healthcare (EHR, claims data, real-world data, HEOR data)
+Experience in the healthcare/pharmaceutical industry
+
+As a Senior Data Scientist, you will have the opportunity to work with a dynamic team and make an impact on the healthcare industry. If you are enthusiastic and energized about data and driven to share that knowledge and excitement with others, we encourage you to apply for this role.
+About the job
+Description:
+NCS – a leading regional B2B digital services company – is partnering the National University of Singapore (NUS) in a joint research lab to conduct research and development in next generation cyber security technologies driven by emerging digital transformations based on AI, 5G, cloud computing, robotics, autonomous vehicles and so on.
+We are looking for a candidate who is passionate about driving data science aspects of our telco and cyber analytics related initiatives. Prior experience in technology commercialization and good understanding of AI and cyber security related products and services are also required. With a strong desire to work on problems that really matter for our customers, the candidate is expected to collaborate with researchers in the NUS-NCS Lab and security vendors with the goal of developing and productizing top-notch and highly innovative solutions.
+
+Duties & Responsibilities:
+Engage directly with cybersecurity SMEs to define use cases and requirements
+Design and develop algorithms and techniques to identify new threats from large data sets
+Work closely with other data/research scientists and data engineers to propose and develop analytical solutions
+Be hands-on in performing development work
+Communicate clearly to end-users, and internal/external stakeholders
+Assemble and process large and structured/unstructured datasets that meet cyber security business requirements.
+Create impactful demonstrations to showcase cyber analytics capabilities
+Design and build services with a focus on business value and usability
+Contribute to cross-functional technical discussion
+
+Requirements:
+MS/PhD in Computer Science, Computer Engineering, Information Technology, Electrical Engineering or equivalent
+Experience in software development using Python and a keen interest in cyber security
+Experience with Apache Spark and distributed large-scale computing
+Experience detecting malicious or anomalous events in large data sets including fluency with machine learning techniques and methodologies
+Familiar with systems that make use of multiple machine learning and statistical methods, including ensemble learning
+Proficient in cloud technologies and services provided by AWS, Azure, and GCP
+Familiar with DevOps tools, such as Git, Docker, Kubernetes
+Knowledge of networking and telecommunications
+Proficient in SQL and other scripting languages, such as Python and Bash
+About the job
+
+
+Location: Singapore
+
+JOB OVERVIEW
+
+This role is primarily accountable for the development of best-in-class reporting and the provision of ad hoc analyses for a range of stakeholders in the Global Sales, Admissions and Marketing (SAM) business.
+
+KEY RESPONSIBILITIES
+
+The provision of timely and accurate BAU management and operational reports to the Sales, Admission and Marketing teams.
+Identifying opportunities to develop and automate existing reports through PowerBI, MS Excel, MS Access, MS SQL Server, VBA, Windows Scheduler, and/or other similar software.
+Identify opportunities to transition reporting capabilities from legacy Excel/Access to more scalable platforms (e.g. Cognos, Tableau, Salesforce Analytics, Power BI etc.).
+Work collaboratively with colleagues across the SAM team, Finance and IT to build new reporting capabilities as required to support the business.
+Document projects and processes to ensure project and development continuity.
+Support internal stakeholders with other ad hoc analyses and the development of data products.
+EXPERIENCE
+
+A degree in Sales, Marketing, Finance, or any other business-related field. An equivalent of the same in working experience is also acceptable.
+Relevant courses in salesforce or BI systems
+Exposure to quantitative & predictive modelling
+Proven and evident work experience in a similar role, ideally in a sales, marketing or business operations team
+Expert skills in MS Excel, MS Access, MS SQL, and other databases
+Scripting and programming experience in VBA or similar
+Understanding of CRM and Database Software
+Expertise in reporting and data visualisation
+Keen interest in data, business workings, processes and analytics
+Strong analytical and reporting expertise
+Able to acquire business knowledge quickly and apply this to the day-to-day role
+Highly organised and self-motivated; able to prioritise work and work to tight deadlines
+Strong attention to detail and ability to identify/address issues with data to ensure the production of high-quality reporting
+Comfortable working in ambiguity and can develop multiple creative solutions to ensure the delivery of planned outcomes
+Demonstrates effective and timely decision-making and judgement
+Excellent written and oral communicator, able to clearly convey commercial and operational impact based on data insights.
+ABOUT US
+
+We are a global pathway provider in International Education, working collaboratively with over 50 universities around the world, offering over 500 undergraduate and postgraduate teaching programmes. Voted as 2017, 2018, 2020, and 2021 Global Pathway Provider of the year, our people are united with the shared ambition of providing a world-class education to talented students from across the globe.
+
+With a truly global outlook and offices all over the world, our international team uses its expertise, knowledge, and commitment to create opportunities and add value. We are determined to grow and innovate in our field, providing our students and partners with high-quality outcomes across the higher education space.
+
+
+
+ORGANISATIONAL COMPLIANCE
+
+Study Group is committed to safeguarding and promoting the welfare of its students, and expects all staff and volunteers to share the same dedication. Applicants will be required to undergo child protection screening appropriate to the role, including checks with past employers, an Enhanced Check from the Disclosure and Barring Service (DBS) and overseas criminal records if appropriate.
+
+Study Group processes your information in line with data protection regulations. Please see ourPrivacy Policy
+About the job
+Kindly state your commitment period in your resume.
+
+General Description
+We are looking for 2 motivated individual who is interested in the field of HR. In this role, you will be involved in the day-to-day operations of HR in terms of recruitment & administration.
+
+Specific Accountabilities
+
+Recruitment & HR Operations
+Participate in day-to-day HR recruitment activities from sourcing, screening, shortlisting to
+coordination of interviews
+Involved in local & regional performance appraisal process & its follow-up tasks.
+Coordination & updating of organization chart using Microsoft Visio
+General HR administrative duties
+
+Learning & Org Development
+Global Employee Survey
+Shortlisting for Global Leadership programs
+Psychometric / Diagnostics Assessments
+
+Skills Required
+Meticulous and ability to work independently
+Strong time management and organization skills
+Strong problem-solving skills
+Experience and Qualifications
+Minimum degree in related studies
+Strong working knowledge of Microsoft Office (Word, Excel & PowerPoint)
+Having 1-2 years of administrative experience will be advantageous
+Ideally someone who can commit at least 3 months on a full-time basis(Mon - Fri, 9am - 6pm)
+About the job
+About the Client
+Our client is a leading regional maritime company looking for an experienced data scientist to join their team. You will get to play a pivotal analytical role in making a direct business impact.
+
+
+Main Duties & Responsibilities
+Conduct statistical modelling, clustering analysis and machine learning modelling using semi-structured / Unstructured and Relational data
+Solve business problems using deep learning models such as CNN, RNN, ANN etc.
+Develop and apply advanced machine learning algorithms such as SVM predictive analysis, Neural Network etc.
+Gather and translate business insights to analytics objectives, building the analytics infrastructure
+Build dashboards and identify business opportunities for relevant stakeholders
+Scale big data capabilities and frameworks
+
+Experience and Qualifications
+Bachelor’s/Masters degree in Statistics, Computer Science or in any related quantitative field
+At least 6 years of experience in a data analytics or relevant analytical roles
+Substantial experience in data mining and developing predictive models (such as non-linear regression, time series modelling, Neural Networks, SVM etc.)
+Highly proficient in Python, R, SAS, SQL and Python packages – PySpark, NumPy, Pandas, Scikit-Learn etc
+Experience with deep learning frameworks such as TensorFlow is a plus
+Expertise in AWS Cloud Analytic Solutions - Lambda, Redshift, Athena, S3 etc
+
+Interest & Application
+To further consult on this role, please send your updated Word format resume to Samantha.See@springasia.com
+
+Kindly note that only shortlisted candidates based in Singapore will be contacted.
+
+Personnel Registration No R22109255
+EA license No. 09C5803
+About the job
+Company Overview: Our client is an order book-centric Decentralised Exchange (DEX) trading protocol that is based on Ethereum L2 (Layer 2), utilising a Decentralised Autonomous Organisation (DAO) structure that has full control over its treasury. As a next-gen DEX, They aims to make decentralised exchange trading mainstream and accessible to all, with key features such as Order Book Trading, Leverage Capabilities, Layer 1 to Layer 2 Bridge, AMM (Autonomous Market-Making), and Super-fast Transaction Times amongst other features.
+The vision of our client is to become the leading liquidity hub in Ethereum Layer 2 and make decentralised exchange trading mainstream and accessible to all.
+They are a protocol of the community, by the community, and for the community. They stick to a fair-launch principle in that there is no discounted seed round of fundraising or any VC round - anyone from the community can participate with equal rights.
+
+
+Job Description
+
+We Want You:
+We are looking for individuals who are keen to join our group of talented project contributors. You are someone who:
+has an immense interest in blockchain-related technology
+well on your way to being a Crypto-Native
+has an insatiable thirst for growth and learning,
+is keen to build and grow together with the industry
+
+What you'll be doing:
+Design and implement Zero-Knowledge rollups by integrating Zero-Knowledge proof into the blockchain;
+Understand the unique characteristics of trading systems and grid trading methodology;
+Research and design new Zero-Knowledge proof methodologies, thus reducing on-chain cost as much as possible while ensuring performance;
+Keep engineering teams up-to-date with the latest Zero-Knowledge Proof research.
+
+What you'll need:
+Proficient in cryptography subjects such as Zero-Knowledge Proof, secure multi-party computation, threshold signature, ring signature, aggregate signature and homomorphic encryption;
+Solid competency and knowledge in the area of Security in Cryptography;
+Proficient in the principles and implementations of Zero-Knowledge Proof algorithms. Proficient in applying the principles and secondary development of commonly used tool libraries;
+Proficient in C/C++/Rust and other languages to implement and optimize algorithms;
+Possess strong ability in documentation, and can accurately explain the most cutting-edge cryptography technology to others.
+
+Good-to-have Requirements:
+Preferably someone who has been closely following the developments and achievements in cryptography;
+Preferably Bachelor's Degree or above with disciplines in computer science, information security, and applied mathematics. Doctorate degree would be highly preferred;
+Preferably with published papers at international cryptography conferences are preferred;
+Good command of English and Chinese language due to communication and documentation in such medium.
+About the job
+Hiring Entity: Temasek International Pte. Ltd.
+
+Group: Corporate Development Group
+
+Department/Section: Digital Technology
+
+Position Type: Project Intern
+
+Period: July – December 2023
+
+Job Description:
+
+Work closely with data architect in creating data pipelines using cloud and big data technologies
+Work on scheduling big data jobs on cloud
+Work on deploying and testing data applications
+Create dashboards for business requirements
+
+Qualifications / Capabilities:
+
+Pursuing a degree in Engineering, Computer Science and/or Computer Engineering
+Coding proficiency in at least one modern programming language
+Strong communication and interpersonal skills
+Data processing experience in SQL. Knowledge of database principles
+Good grasp of key computer science and software engineering concepts including but not limited to software design patterns, application security, performance, TDD
+Strong interest in learning new data systems and technologies.
+Experience in cloud technologies like AWS is preferred
+Experience with big data frameworks like airflow, spark is desired
+Experience with CI/CD practices and systems (e.g. Git, bitbucket) are a plus
+Experience with data visualizations tools like Tableau, Qlik is advantageous
+Please indicate your availability clearly in your resume/CV (Start date, End date)
+About the job
+Job Summary
+The Project Data Specialist's main responsibility is to support the Engineering department in the successful delivery of engineering data, which includes all necessary work and support activities to ensure quality deliverables.
+The Project Data Specialist works closely with the Lead Engineers and with other relevant stakeholders to ensure that the quality and the transfer of data throughout all project phases and into operation are as per the Company’s data governance, and other applicable requirements.
+The Project Data Specialist shall ensure that there are no duplications and that all items are identified by a unique tag number.
+The position is the champion of data governance and promotes the importance of compliance in projects
+
+Key Responsibilities
+Consolidate all the required deliverables from all Contractors/Suppliers, ensure that all requirements are met, and upload the information to the appropriate application.
+Ensures that all data that are associated with unique tag numbers are consistent in 1D, 2D, and 3D presentation as per Client Engineering Numbering System (ENS) and drawing legends.
+Establishing and maintaining a master tag register in a centralized database.
+Map the Life Cycle Inventory (LCI) data fields throughout the entire Integrated Engineering and Design (IE&D) tools.
+Responsible for distributing information from the centralized database to any consumers of data, e.g. Computer Maintenance Management system (CMMS), Completions Management System (CMS), etc.
+Supporting the Project team in the allocation of tag sequences.
+Bring attention to the Lead Engineers in case of any issues that could potentially impact final data - and document quality, cost, or schedule.
+
+Applications to support functional tasks:
+The mapping of Life Cycle Inventory (LCI) data fields is developed through AVEVA Integrated Engineering and Design (IE&D) tools.
+The database for the master tag register is AVEVA Engineering, which is part of AVEVA’s Integrated Engineering and Design (IE&D) suite.
+AVEVA svg review tool, which is a tool for reviewing and extracting tagged information from drawings.
+Bring attention to the Lead Engineers in case of any issues that could potentially impact final data- and document quality, cost, or schedule.
+
+Job Requirements
+Certification in Information Management is preferred.
+Previous experience working in Information Management on large projects in Oil and Gas Sector
+Knowledge and understanding of data governance challenges and best practice for metadata, data quality, and data stewardship.
+Experience working with databases (AVEVA)
+Knowledge of data management processes and tools
+Fluent in English, verbal and written
+Due to work pass restriction, only Singaporean and Singapore PR is considered
+About the job
+Collaborate with stakeholders to understand requirements for data structure, availability, scalability & access.
+Establish and maintain data pipelines from ingestion (batch, real-time, or streaming), stage, extract-transform-load (or extract-load-transform), fuse, and use in analytics and machine learning (batch, real-time and asynchronous)
+Establish and maintain data virtualization over ingested datasets in the company's Data Lake, for data consistency, standardization, and ease of use.
+Assist in data governance quality assurance for oversight, monitoring and reporting results
+Collaborate with infrastructure and operations teams to architect and implement performance-tuning solutions for data storage and analytics.
+Communicate and build partnerships with stakeholders, vendors, developers, and testers, presenting technical concepts to business stakeholders in understandable terms to garner support for solution architectures, resourcing, and budgeting to align with the data architectural roadmap.
+Foster continuous improvement by looking for opportunities to improve design practices and technical approaches within the department.
+Evaluate tools and techniques, engaging vendors where needed, to support estimation of effort, costs, and bill of materials, and create common ground for the solution to be developed.
+Serve as a technical expert on solution design, development, and implementation requirements to address business needs while balancing financial and technical constraints such as scalability, security, performance, and reliability.
+
+Requirements
+Bachelor’s Degree in Business, Digitalization, Technology or related discipline
+At least 5 years of experience in data architecture/engineering.
+Working knowledge of common programming languages such as Python, R, Java, or C#.
+Experience with relational databases (including SQL fluency) and nonrelational databases.
+Familiarity with extract-transform-load/extract-load-transform operations is a must (eg Informatica).
+Familiarity with data warehousing concepts (schemas, operational data stores, feature stores, datamarts) is a must.
+Experience with cloud-based computing, storage, analytics, administration, and management, such as Healthcare Commercial Cloud.
+Prior experience in the healthcare industry or technology startups will be an advantage
+Professional certification in cloud infrastructure, Project Management, data engineering, data-ops, or equivalent areas would be advantageous.
+Working knowledge of streaming ingestion and streaming analytics is an advantage.
+Working knowledge of container technology is an advantage.
+
+Interested candidates can forward their CVs in MS Word format to connie@triton-ai.com
+
+Reg No. R1875181
+
+Triton AI Pte Ltd
+
+License no. 21C0661
+
+Benefits
+Permanent position, Salary up to 9,000 with AWS + 3 months Bonus (Principal Analyst Level with experience)
+Reputable Healthcare Sector, West MRT
+The ideal candidate should possess at least 5 years of experience in data architecture/ engineering and working/ programming knowledge in Python, R, Java, or C#
+About the job
+Responsibilities:
+
+
+Understand business requirements and challenges to effectively come up with solutions from a data science perspective
+Develop statistical approaches and tools
+Build predictive models and analytic solutions using machine learning algorithms
+Propose and implement appropriate statistical and mathematical methodologies
+Manage complex and technical predictive analytics projects
+Requirements:
+
+
+Experience in the insurance industry
+Min 3-10 years of experience in data science (multiple positions at various levels available)
+Experience in the full end to end data process, from data gathering to model development and the implementation of the model into deployment.
+Experience in data engineering and MLOps is preferred.
+Proficient in predictive analytics such as real world experience in model development, validation and testing
+Experience in statistical techniques such as generalized linear models, survival models, random forests, clustering and Bayesian approaches to data analysis
+Registration No: R1877139
+
+EA Licence No: 20C0336
+About the job
+The Government Technology Agency (GovTech) aims to transform the delivery of Government digital services by taking an "outside-in" view, putting citizens and businesses at the heart of everything we do. We also develop the Smart Nation infrastructure and applications, and facilitate collaboration with citizens and businesses to co-develop technologies.
+
+Join us as we support Singapore’s vision of building a Smart Nation - a nation of possibilities empowered through info-communications technology and related engineering.
+
+Team Introduction:
+
+The Data Science & Artificial Intelligence Division (DSAID) works with public sector agencies in using data science and AI to improve policy outcomes, service delivery and operational efficiency. We extract data-driven insights and build intelligent platforms to add value to the work of our partner agencies.  We also help public sector agencies transform by partnering them in building data science expertise, formulating data strategies and setting up the necessary data infrastructure.
+
+
+How do we work:
+
+Outcome Driven - Our projects are not academic exercises. We are driven by the “so what” and make sure that our findings and models can be translated into tangible impact.
+
+Start Small and Move Fast - We build things quickly. If it works, good — how can we scale this up further? If not, what went wrong and what can we do better next time?
+
+Ownership - You are not just here to write code, but also to figure out what we should be building and how we should build it.
+
+Continuous Learning - Working on new ideas often means not fully understanding what you are working on. Taking time to learn new architectures, frameworks, technologies, and even languages are not just encouraged but essential.
+
+We are in this Together - We draw from the deep domain knowledge of our partners and best practices from our community of experts.
+
+Read more about us from the team's blog https: //medium.com/dsaid-govtech
+
+Job Overview
+
+We are seeking a Data Scientist to join our Quantitative Strategy team, to work on data projects for the public good.
+
+
+As a Data Scientist, you will be identifying opportunities for data exploitation through in depth conversations with business stakeholders. You will scope out data science projects with clear deliverables that are actionable and impactful, and execute them in close iteration with the stakeholders.
+
+
+This role requires an individual with strong data analysis, problem solving, and communication skills, who can engage stakeholders on their business use cases, identify appropriate data science techniques in each case, and deliver sound solutions that seek to influence actionable outcomes.
+
+What you will be working on:
+
+Facilitate discussions with stakeholders to understand their business challenges, sharpen the business use cases and translate them into data science projects.
+Perform data cleaning, pre-processing, feature engineering, and build data science models to address the use case.
+Present findings, solicit feedback and prioritise refinements to the analysis in close iteration with stakeholders while managing overall project timeline.
+Communicate the data insights in a clear and compelling narrative, supported with impactful visuals, to influence key decision makers.
+Depending on the use case, design of dashboards and interactive visualisations as tools for data exploration and storytelling may be expected.
+Opportunities to be deployed to another government agency as the core data science team for a sustained period of 2-3 years, to build up data science capabilities at the agency. This will involve formulating and implementing strategies to build strong pipeline of impactful projects at the agency and executing these projects.
+
+What we are looking for:
+
+A Bachelor's Degree or higher in Data Science, Computer Science, Statistics, Economics, Quantitative Social Science, or related disciplines. We will also factor in relevant certifications (e.g., Coursera).
+At least 2 years of relevant experience, in data science and/or public sector.
+Capable of translating business use cases into analytical problems, and identifying appropriate data sources to tackle these problems.
+Proficient in writing scripts for data preparation and analysis, using modern analysis tools & programming methodologies.
+Proficient cleaning, imputing and correcting anomalies in the collected structured or unstructured data to ensure a high standard of quality in data sets to be used in the analysis work.
+Proficient in exploring and analysing datasets, applying probability and statistical methodologies and techniques to discover insights from the data.
+Proficient in building machine learning models to identify, recognise patterns and make predictions.
+Proficient in design principles and use of visualisations to best convey the intended information.
+Capable of developing data visualisation from standalone graphs and charts on to highly customised tools and apps while tightly integrated to the data systems for real time visualisation of information.
+Capable of translating results from analysis work into actionable recommendations for stakeholders.
+Capable of communicating results from analysis work in a coherent data story for stakeholders.
+
+Preferred requirements:
+
+Experience in model deployment
+Experience in stakeholder management
+Experience in agile project management
+Experience in developing capability in others
+
+We are an equal opportunity employer and value diversity at our company as we believe that diversity is meaningful to innovation. Our employee benefits are based on a total rewards approach, offering a holistic and market-competitive suite of perks. This includes generous leave benefits to meet your work-life needs. We trust that you will get the job done wherever you are, and whatever works best for you – so work from home or take a break to exercise if you need to*. We also believe it’s important for you to keep honing your craft in the constantly-evolving tech landscape, so we provide and support a plethora of in-house and external learning and development opportunities all year round.
+
+Subject to the nature of your job role that might require you to be onsite during fixed hours
